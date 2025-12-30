@@ -30,6 +30,6 @@ The "anxious thoughts" are not the destination; they are what must be surrendere
 | **תנ"ך וברית חדשה בתרגום מודני** |שַׂרְעַפָּי (sar’appay)  | Tangled/Branching thoughts |
 | **NASB/NIV (English)** | Anxious thoughts | Inner turmoil/disquiet |
 | **NBLA (Spanish)** | inquietudes | worries/anxiety |
-| **聖書 新共同訳** | 悩み (なやみ) | Worries |
+| **聖書 新共同訳 (Japanese)** | 悩み (なやみ) | Worries |
 | **CUV (Chinese)** | 意念 (Yìniàn) | General thoughts/intentions |
 | **CCB (Chinese)** | 忧虑 (Yōulǜ) | Explicit worries/anxiety |
