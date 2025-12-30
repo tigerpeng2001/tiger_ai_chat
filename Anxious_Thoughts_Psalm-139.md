@@ -24,7 +24,7 @@ The "anxious thoughts" are not the destination; they are what must be surrendere
 * David realizes that his anxieties are often the "hurtful ways" that keep him from the "everlasting way."
 
 ---
-**Summary of the Hebrew Root (*Sar’appay*):**
+**Summary of the Hebrew Root שַׂרְעַפָּי (*sar’appay*):**
 | Version | Translation | Nuance |
 | :--- | :--- | :--- |
 | **תנ"ך וברית חדשה בתרגום מודני** |שַׂרְעַפָּי (sar’appay)  | Tangled/Branching thoughts |
