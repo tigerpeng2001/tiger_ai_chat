@@ -9,7 +9,7 @@ The Psalm is bookended by the concept of being "searched."
 By inviting God to search his anxieties, David is consenting to the divine scrutiny he acknowledged at the beginning of the poem.
 
 ## 2. The Solution to Inner Commotion
-The Hebrew word for "anxious thoughts" (*sar’appay*) literally refers to **"branching" or "tangled" thoughts**. 
+The Hebrew word שַׂרְעַפָּי (sar’appay*) for "anxious thoughts" literally refers to **"branching" or "tangled" thoughts**. 
 * The first 18 verses establish that God is **Omniscient** (knows all), **Omnipresent** (is everywhere), and **Omnipotent** (created all).
 * In verse 23, David brings his "tangled" internal world to this all-powerful God. He acknowledges that while his thoughts are a maze to him, they are a straight path to God.
 
@@ -27,7 +27,7 @@ The "anxious thoughts" are not the destination; they are what must be surrendere
 **Summary of the Hebrew Root (*Sar’appay*):**
 | Version | Translation | Nuance |
 | :--- | :--- | :--- |
-| **תנ"ך וברית חדשה בתרגום מודני** |שַׂרְעַפָּי (Sar’appay)  | Tangled/Branching thoughts |
+| **תנ"ך וברית חדשה בתרגום מודני** |שַׂרְעַפָּי (sar’appay)  | Tangled/Branching thoughts |
 | **NASB/NIV** | Anxious thoughts | Inner turmoil/disquiet |
 | **NBLA** | inquietudes | worries/anxiety |
 | **聖書 新共同訳** | 悩み (なやみ) | Worries |
