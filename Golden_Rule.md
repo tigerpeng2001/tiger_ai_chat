@@ -10,7 +10,7 @@ The "Golden Rule" is a fundamental ethical principle found in the teachings of J
 * **Nature:** This is a **proactive** and **positive** command. It requires the individual to take the initiative in performing acts of kindness and service.
 * **Scope:** It is presented as the summary of "the Law and the Prophets."
 
-## 🏛️ Confucian Perspective: The Two Sides of Ren (Benevolence)
+## 🏛️ Confucian Perspective: The Two Sides of Ren (仁/Benevolence)
 Confucianism approaches this ethical standard from both a restrictive (negative) and an expansive (positive) angle.
 
 ### The Silver Rule (Shu - 恕)
@@ -32,10 +32,10 @@ Confucianism provides a specific social framework for how these rules should be 
 
 | *Feature* | *The Golden Rule (Bible)* | *Confucian Ethics* |
 | :--- | :--- | :--- |
-| **Primary Focus** | Active Service & Agape | Social Harmony & Ren (Humaneness) |
+| **Primary Focus** | Active Service & Agape | Social Harmony & Ren (仁/Humaneness) |
 | **Direction** | Proactive (Do...) | Proactive & Restrictive (Do... & Don't...) |
 | **Starting Point** | Individual Desire for Treatment | Family Ties and Self-Aspiration |
-| **Ultimate Goal** | Spiritual Law fulfillment | Becoming a Junzi (Noble Person) |
+| **Ultimate Goal** | Spiritual Law fulfillment | Becoming a Junzi (君子/Noble Person) |
 
 ## 🚀 Future Exploration
 - [ ] Comparison with the "Ethic of Reciprocity" in Stoicism.
