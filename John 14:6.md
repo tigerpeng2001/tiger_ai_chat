@@ -1,6 +1,6 @@
-Q: Please explain [John 14:6](https://www.bible.com/bible/111/JHN.14.NIV?parallel=1713).
+## Q: Please explain [John 14:6](https://www.bible.com/bible/111/JHN.14.NIV?parallel=1713).
 
-**Gemini said**
+**Gemini:**
 
 In [John 14:6](https://www.bible.com/bible/111/JHN.14.NIV?parallel=1713),
 Jesus makes one of the most significant \"I Am\" statements in the New
@@ -50,9 +50,9 @@ the guaranteed connection to that place.
 Would you like me to find some [commentary videos](https://www.google.com/search?q=https://www.bible.com/videos/34-the-way-the-truth-and-the-life-lumo-project)
 or other verses that expand on this \"I Am\" statement?
 
-Q: Could you say more about the 'exclusive' claim? What about other religions, such as Judaism and Islam, which I think come from the same root? Also Hinduism, Buddhism, and others.
+## Q: Could you say more about the 'exclusive' claim? What about other religions, such as Judaism and Islam, which I think come from the same root? Also Hinduism, Buddhism, and others.
 
-**Gemini said**
+**Gemini:**
 
 The \"exclusive\" claim in **John 14:6** is one of the most debated
 statements in the Bible because it moves from offering a personal path
@@ -121,9 +121,9 @@ Would you like to look at the verses immediately following this (Verses
 7-11), where Jesus explains his unique relationship with the Father in
 more detail?
 
-Q: Hinduism and Buddhism focus on personal effort to achieve the final personal goal, don't they?
+## Q: Hinduism and Buddhism focus on personal effort to achieve the final personal goal, don't they?
 
-**Gemini said**
+**Gemini:**
 
 That is a very sharp observation. You've touched on the core difference
 between the \"exclusive\" claim of Jesus in [John 14:6](https://www.bible.com/bible/111/JHN.14.NIV?parallel=1713)
@@ -190,9 +190,9 @@ Would you like to explore how Jesus explains the \"evidence\" for this
 claim in the next few verses, specifically his appeal to the \"works\"
 he performed?
 
-Q: What is the relationship between Hinduism and Buddhism?
+## Q: What is the relationship between Hinduism and Buddhism?
 
-**Gemini said**
+**Gemini:**
 
 Since Hinduism and Buddhism originated in the same geographical and
 cultural soil of ancient India, they share a \"family resemblance\" even
@@ -269,9 +269,9 @@ person is the *only* truth.
 **Would you like to compare how these two religions view \"suffering\"
 specifically, compared to the Christian view of \"sin\"?**
 
-Q: Could you provide a more detailed comparison between Christianity and Islam?
+## Q: Could you provide a more detailed comparison between Christianity and Islam?
 
-**Gemini said**
+**Gemini:**
 
 Since Christianity and Islam share the same \"Abrahamic\" root, they
 agree on several foundational points: there is only one God, he is the
@@ -342,9 +342,9 @@ Since we\'ve touched on the **Holy Spirit**, would you like to look at
 verses 15--17 in your text, where Jesus explains who this \"Advocate\"
 is and why he is being sent?
 
-Q: Does this mean Islam, compared with Christianity, focuses more on individual effort?
+## Q: Does this mean Islam, compared with Christianity, focuses more on individual effort?
 
-**Gemini said**
+**Gemini:**
 
 In short: **Yes.** While both religions emphasize that God is the source
 of all things, the \"mechanics\" of how a person reaches God are
@@ -423,9 +423,9 @@ your duties to God seriously and striving harder.
 Would you like to look at verse 15---\"If you love me, keep my
 commands\"---to see how Jesus balances \"faith\" with \"action\"?
 
-Q: What are Islam's Five Pillars?
+## Q: What are Islam's Five Pillars?
 
-**Gemini said**
+**Gemini:**
 
 In Islam, the **Five Pillars** (Arkan al-Islam) are the core
 requirements that define the \"effort\" and \"submission\" of a
@@ -495,9 +495,9 @@ the path.
 Would you like to look at the **Sermon on the Mount** later to see how
 Jesus's \"requirements\" compare to these Five Pillars?
 
-Q: Could you explain Islamic fundamentalism?
+## Q: Could you explain Islamic fundamentalism?
 
-**Gemini said**
+**Gemini:**
 
 \"Islamic fundamentalism\" is a term often used by Western scholars and
 the media to describe a movement within Islam that advocates for a
@@ -572,9 +572,9 @@ Path.\"
 \"Traditional\" or \"Sufi\" Islam, which often focus more on mysticism
 and local customs?**
 
-Q: Is Islamism very 'exclusive' and violently 'excluding' anyone with different ideas?
+## Q: Is Islamism very 'exclusive' and violently 'excluding' anyone with different ideas?
 
-**Gemini said:**
+**Gemini::**
 
 That is a complex and sensitive question. To answer it accurately, we
 have to distinguish between **Islam** (the religion practiced by 1.9
@@ -647,9 +647,9 @@ Would you like to explore how Jesus talks about handling \"outsiders\"
 or enemies later in the Gospels to compare it with these political
 movements?
 
-Q: Has Christianity evolved from exclusive to inclusive?
+## Q: Has Christianity evolved from exclusive to inclusive?
 
-**Gemini said**
+**Gemini:**
 
 The question of whether Christianity has evolved from \"exclusive\" to
 \"inclusive\" depends on whether you are looking at the **theology**
@@ -729,9 +729,9 @@ peace and love found in the rest of the chapter.
 vs. Evangelicals) specifically interpret these \"exclusive\" claims
 today?**
 
-Q: What about the Crusades?
+## Q: What about the Crusades?
 
-**Gemini said**
+**Gemini:**
 
 The **Crusades** (a series of religious wars between 1095 and 1291)
 represent one of the most significant historical examples of Christian
@@ -814,9 +814,9 @@ Claim B\" that still impacts global politics today.   
 Christian exclusion, or shall we move back to how Jesus describes the
 \"Spirit of Truth\" in verse 17?**
 
-Q: Could you compare Catholics and Orthodox Christians?
+## Q: Could you compare Catholics and Orthodox Christians?
 
-**Gemini said**
+**Gemini:**
 
 The split between the **Catholic Church** and the **Eastern Orthodox
 Church** (known as the **Great Schism of 1054**) is one of the most
@@ -894,9 +894,9 @@ disagree on how his \"body\" (the Church) should be organized on earth.
 **Would you like to know more about the \"Great Schism\" itself and how
 a simple document placed on an altar in 1054 split the world in two?**
 
-Q: And what about Protestantism?
+## Q: And what about Protestantism?
 
-**Gemini said**
+**Gemini:**
 
 To round out the \"Big Three\" of Christianity, we have to look at
 **Protestantism**. While Catholics and Orthodox split in 1054 over
