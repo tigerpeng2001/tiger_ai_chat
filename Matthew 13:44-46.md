@@ -32,4 +32,4 @@ These two verses represent two different paths to the same present-tense life.
 
 ---
 
-> *Note: The Kingdom is not a location in the future; it is the treasure found and lived today.*
+> ***Note: _The Kingdom is not a location in the future; it is the treasure found and lived today._***
