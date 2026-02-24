@@ -26,6 +26,7 @@ The man in the parable does not wait for a future king to grant him the treasure
 * **The Not Yet:** While we possess the "treasure," we still live in the "field" (the world). We live in the tension of a perfect treasure within an imperfect world.
 * **The Transformation:** Finding the Kingdom isn't about escaping this world, but about importing the values of the "Age to Come" into our current daily life.
 
+* **Synthesis:** Inaugurated Eschatology is the belief that the "Last Things" (the blessings of the future Kingdom) have been formally inducted into the present life through the discovery of the "Treasure."
 #### **Terminological Breakdown**
 
 * **Inaugurated** (Latin: *inaugurare*): To formally begin or induct. It implies the "reign" has started.
@@ -39,9 +40,6 @@ The man in the parable does not wait for a future king to grant him the treasure
 	- **Original Meaning**: Literally, "the study of last things."
     - **Theological Nuance**: Traditionally, this was only about the "end of the world." However, by combining it with "inaugurated," theologians are saying that the "Last Things" (like God's presence, the defeat of death, and perfect justice) have already leaked into the present.
 
-Theological Nuance: Traditionally, this was only about the "end of the world." However, by combining it with "inaugurated," theologians are saying that the "Last Things" (like God's presence, the defeat of death, and perfect justice) have already leaked into the present.
-
-**Synthesis:** Inaugurated Eschatology is the belief that the "Last Things" (the blessings of the future Kingdom) have been formally inducted into the present life through the discovery of the "Treasure."
 ---
 
 ### **Theological Comparison of Terms**
