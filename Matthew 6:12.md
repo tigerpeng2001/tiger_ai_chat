@@ -8,7 +8,7 @@ In the original Greek script, the word translated as "as" is **$\omega\varsigma$
 * **Grammatical Function:** It is a comparative particle meaning "in the same manner" or "just as." 
 * **The Wenli Context:** In the [文理和合譯本](https://www.bible.com/users/tigerpeng2001/reading-plans/22357-the-lords-prayer-explained/subscription/1271966947/day/5/segment/2), this is rendered as **如 (rú)** in the phrase **“如我免人”** (*rú wǒ miǎn rén*), which reinforces the idea of a "like-for-like" pattern.
 * **Logical Link:** It functions as a "correlative," linking the way God forgives us to the way we have forgiven others. The grammar suggests a **standard of measure**. We are asking God to apply the same principle of mercy to us that we participate in with others.
-* **Why it matters:** The "as" is intended to be a mirrors. It suggests that a heart that refuses to forgive others is technically "closed" and unable to receive the forgiveness God is offering. It isn't that we earn God's forgiveness by being good to others, but rather that our willingness to forgive is the evidence that we have understood and accepted God's grace ourselves.
+* **Why it matters:** The "as" is intended to be a mirror. It suggests that a heart that refuses to forgive others is technically "closed" and unable to receive the forgiveness God is offering. It isn't that we earn God's forgiveness by being good to others, but rather that our willingness to forgive is the evidence that we have understood and accepted God's grace ourselves.
 
 ## 2. The Theology of "The Released Burden"
 Forgiveness is not merely a favor to the offender, but a necessity for the victim's own spiritual health.
@@ -29,12 +29,12 @@ Within the context of [The Lord's Prayer](https://www.bible.com/bible/114/MAT.6.
 
 | Concept | Action | Outcome |
 | :--- | :--- | :--- |
-| **Forgiving** | Active release (*Aphiēmi* - "to send away"). You put the heavy bag down and walk away. | The "sting" is removed; the memory is no longer a burden. down and walk away.	You are free, even if you still remember the bag was heavy. |
+| **Forgiving** | Active release (*Aphiēmi* - "to send away"). You put the heavy bag down and walk away. | The "sting" is removed; the memory is no longer a burden. You are free, even if you still remember the bag was heavy. |
 | **Forgetting** | Passive bypass or denial. You try to pretend you aren't carrying a bag. | The weight is ignored but remains; wisdom from the event may be lost. You may "trip" over it later because you've ignored it. |
 
 
 ## 5. Synthesis: Grace vs. Quantity
-The feeling of needing "more forgiveness from God than I can offer others" is an honest recognition of our human state.
+Rather than asking us to match God’s infinite capacity for mercy, the prayer invites us to participate in its nature. Just as a small stream is made of the same water as the ocean, our small acts of forgiveness allow us to 'speak the same language' as God.
 * **The Source:** We live in the "Already" of God's infinite mercy, but our own ability to forgive is often in the "Not Yet" stage of growth.
   God’s forgiveness as an infinite ocean and yours as a small stream. A stream doesn't have to be as big as the ocean to be made of the same water.
   * The prayer isn't asking you to match God’s capacity for mercy.
