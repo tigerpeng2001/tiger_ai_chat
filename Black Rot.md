@@ -65,7 +65,18 @@ If heavy rain occurs, reapply as soon as weather clears because rain removes org
 
 If rotted grape fruit has fallen under an inaccessible deck, avoid dismantling the structure. Shift your strategy toward physical barriers and canopy-focused prevention.
 
-### 1) Strip the "Launch Zone" Clean (Trunk Stripping)
+### 1). Execute Late Fall Cleanup & Sanitation
+
+**The Action**:
+- As soon as the leaves fall in late autumn, pluck every single shriveled berry ("mummy") left hanging on the vines. Rake up and remove all fallen leaves from the accessible areas around the deck base.
+
+**Why it works**:
+- Fungal spores spend the winter hibernating directly inside dead plant tissue and mummified fruit. Eliminating this debris severely cuts down the overall spore load before spring arrives.
+
+**Disposal**:
+- Bag and throw away all debris or bury it deeply in the ground. **Do not compost it**, as household compost piles do not reach temperatures high enough to destroy black rot spores.
+
+### 2) Strip the "Launch Zone" Clean (Trunk Stripping)
 
 **Action**:
 - Remove every green shoot, leaf, and sucker from the main trunk for the lower 3 to 4 feet above the deck floor.
@@ -74,7 +85,7 @@ If rotted grape fruit has fallen under an inaccessible deck, avoid dismantling t
 - Spores usually move only about 2 to 3 feet upward from ground sources.
 - A bare-trunk buffer encourages spores to land on bark instead of vulnerable green tissue.
 
-### 2). Apply a Liquid Shield: Lime-Sulfur Paste (Whitewash)
+### 3). Apply a Liquid Shield: Lime-Sulfur Paste (Whitewash)
 
 **The Problem**:
 - If old grapevines are tightly twisted and woven into a fence, fitting a rigid plastic tree guard around the trunks is nearly impossible.
@@ -85,7 +96,7 @@ If rotted grape fruit has fallen under an inaccessible deck, avoid dismantling t
 **Why it works**:
 - This traditional orchard technique creates a heavy, alkaline crust directly over the bark. It chemically neutralizes any black rot spores the moment they splash onto the trunk from under the deck, completely eliminating the need for a physical plastic guard while allowing the vine to stay safely woven into the fence.
 
-### 3) Focus Sprays Upward
+### 4) Focus Sprays Upward
 
 **Action**:
 - Since canopy growth is 6 feet or higher, focus preventative sprays on upper foliage.
