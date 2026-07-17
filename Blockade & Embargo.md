@@ -12,7 +12,8 @@
 5. [Direct Comparison Matrix](#direct-comparison-matrix)
 6. [United Nations Resolutions and International Law](#united-nations-resolutions-and-international-law)
 7. [Historical Context: The Berlin Blockade](#historical-context-the-berlin-blockade)
-8. [Current U.S. Policy Applications](#current-us-policy-applications)
+8. [Current United Nations Debates on the U.S. Restrictions Over Cuba](#current-united-nations-debates-on-the-us-restrictions-over-cuba)
+9. [Current U.S. Policy Applications](#current-us-policy-applications)
 
 ---
 
@@ -105,11 +106,50 @@ One of the most defining geopolitical events of the 20th century was the **Berli
 
 ---
 
+## Current United Nations Debates on the U.S. Restrictions Over Cuba
+
+The United Nations General Assembly (UNGA) remains a primary global stage for intense diplomatic clashes regarding U.S. policy toward Cuba. In July 2026, the UNGA convened an extraordinary emergency session at Havana's request, sparking a highly contentious debate centered on shifting geopolitical realities and an escalating humanitarian emergency on the island.
+
+The modern UN debate focuses on several critical pillars:
+
+### 1. The Fuel Shortage and the "Energy Siege"
+
+*   **Cuba's Accusations**: Cuban Foreign Minister Bruno Rodriguez Parrilla accused the United States of executing a multi-dimensional, unconventional warfare strategy. Havana explicitly labeled recent U.S. economic pressures as an "energy siege equivalent to a naval blockade." Cuba alleges that severe secondary sanctions and intimidation from Washington have frightened away international oil tankers, forwarders, and insurers, directly causing massive nationwide electrical grid collapses and leaving millions of Cubans in the dark.
+*   **The Humanitarian Impact**: Developing nations and regional blocs (including the African Union and Caribbean states) have voiced deep concerns. They argue that the restriction on fuel procurement severely undermines basic human rights, causing critical shortages of food, medicine, and clean drinking water, and crippling healthcare and education.
+
+### 2. Is a Blockade Included in the Cuba Restrictions?
+
+The current United Nations debate centers on whether a "fuel blockade" is actively being used against Cuba. The debate divides into distinct legal and practical arguments:
+
+*   **The Economic Blockade Argument**: While the broader U.S. restrictions remain an economic embargo, recent executive policy from the White House targeted Cuba's energy infrastructure. It imposes heavy market-value duties and tariffs on any foreign nation or state-owned company (such as Mexico's Pemex) that supplies oil to the island. By leveraging these secondary sanctions, the U.S. effectively chokes off foreign energy access, creating the starvation effect of an economic blockade.
+*   **The Distinction from Iran**: UN delegates acknowledge that this differs fundamentally from a traditional military blockade. No U.S. Navy warships are stationed around Cuba to physically board, stop, or turn away merchant vessels. The restriction functions strictly through legal and financial intimidation.
+*   **UN Experts' View**: A panel of UN human rights experts officially warned that the U.S. energy restrictions amount to an unlawful blockade that chokes essential services like hospitals, healthcare, and education, resulting in grave consequences for human rights.
+
+### 3. The U.S. Rebuttal and Domestic Critiques
+
+*   **The Dictatorship Argument**: U.S. Ambassador to the United Nations Mike Waltz strongly rejected the "blockade" terminology, stating flatly at the UN podium: "There is no American blockade." The U.S. argues that the true embargo is the one the Cuban regime mercilessly imposes on its own citizens through systemic corruption, severe political repression, and economic mismanagement.
+*   **The Rhetoric of Wealth**: The U.S. delegation focused heavily on the hypocrisy of Cuba's ruling elite. Ambassador Waltz pointed out that while ordinary citizens endure continuous blackouts, the Castro family compounds remain fully powered, and top officials wear luxury goods like Rolex watches. The U.S. continues to assert that sanctions are necessary leverage to promote human rights and democratic reforms.
+
+### 4. Shifting Global Geopolitics and Waning Support
+
+*   **Erosion of Consensus**: While the UN General Assembly has overwhelmingly voted to condemn the embargo every year since 1992, recent sessions have shown a notable shift in international solidarity. In July 2026, the motion to hold the emergency debate passed with 136 votes in favor, marking Cuba's weakest diplomatic support at the UN in over three decades.
+*   **The Abstention Shift**: A total of 9 countries voted against the debate (including the U.S., Israel, Argentina, Ukraine, Czechia, and Costa Rica), while 30 nations abstained. Crucially, traditional allies and partners like Canada, Germany, Ecuador, and Bolivia chose to abstain or skip the vote entirely. Diplomats attribute this shift to a reluctance by foreign governments to strain critical trade relations with Washington.
+*   **The Ukraine Factor**: International support has also been strained by Cuba's foreign policy alignments. The European Union, while acknowledging the adverse humanitarian impact of the embargo, openly rebuked Cuba at the UN for its ongoing diplomatic alignment with Russia. The EU noted that Cuba's refusal to support UN resolutions condemning the invasion of Ukraine undermines its own arguments regarding national sovereignty and the UN Charter.
+
+---
+
 ## Current U.S. Policy Applications
 
 ### U.S. Policy Toward Cuba
-The United States maintains a complex, decades-old **economic embargo against Cuba**, not a literal military blockade. 
-*   **The Legal Standing**: Legally, it is handled via the U.S. Department of the Treasury and congressional statutes like the Helms-Burton Act. 
-*   **The Semantic Dispute**: The Cuban government and its allies often label the U.S. policy an "economic blockade". This is because heavy U.S. sanctions apply extraterritorially via **secondary sanctions**, penalizing international companies or shipping vessels that attempt to do business with both Cuba and the U.S. This has severely choked Cuba's access to external supplies and oil. However, there is no active line of U.S. Navy warships physically surrounding the island to block foreign merchant vessels.
+
+The United States maintains a complex, decades-old economic embargo against Cuba, not a literal military blockade.
+
+*   **The Legal Standing**: Legally, it is handled via the U.S. Department of the Treasury and congressional statutes like the Helms-Burton Act.
+*   **The Semantic Dispute**: The Cuban government and its allies often label the U.S. policy an "economic blockade." This is because heavy U.S. sanctions apply extraterritorially via secondary sanctions, penalizing international companies or shipping vessels that attempt to do business with both Cuba and the U.S. This has severely choked Cuba's access to external supplies and oil. However, there is no active line of U.S. Navy warships physically surrounding the island to block foreign merchant vessels.
 
 ### U.S. Policy Toward Iran
+
+The United States employs both a severe economic embargo and an active naval blockade against Iran.
+
+*   **The Military Intervention**: Following escalating conflicts in the Middle East and repeated attacks on commercial traffic in the Strait of Hormuz, the U.S. Navy and U.S. Central Command (CENTCOM) established an active naval blockade targeting Iranian ports, coasts, and maritime transit lanes.
+*   **The Ground Reality**: Under this active blockade, American military forces physically intercept, board, and seize vessels suspected of transporting sanctioned Iranian oil and trade goods, or providing material support to Iran. CENTCOM forces have redirected or turned back over a hundred compliant vessels, and have gone as far as utilizing kinetic force to disable non-compliant ships attempting to run the blockade line in regional waters.
