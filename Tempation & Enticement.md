@@ -103,3 +103,22 @@ Temptation operates as an interplay between external triggers and internal react
 | **Judaism** | Unchecked *Yetzer Ha-Ra* | Sanctification of Life | Torah Study & Performing *Mitzvot* |
 | **Islam** | *Shaytan's* Whispers & Unrefined Ego | Submission to God (*Tawhid*) | *Dhikr*, Daily Prayer, & Fasting |
 | **Buddhism** | Ignorance & Craving (*Tanha*) | Liberation (*Nirvana*) | Mindfulness, Meditation, & Insight |
+
+---
+
+## 6. The Reflexive Perspective: Temptation as Self-Directed Action
+
+Understanding temptation through the lens of a **Spanish reflexive verb** (*se*) re-frames it as a process where subject and object are identical:
+
+$$\text{Subject (My Desires)} \longrightarrow \text{Action (Tempting)} \longrightarrow \text{Object (Myself)}$$
+
+### 1. The Reflexive Mechanism (*Engañarse / Caerse*)
+* **The Circuit:** Rather than an external vector ($A \rightarrow B$), temptation operates as a self-contained loop ($A \leftrightarrow A$). External objects are neutral; they become temptations only when internal drives project value and urgency onto them. In this sense, one *tempts oneself* through external proxies.
+
+### 2. Theological & Psychological Alignment
+* **Scriptural Support:** *James 1:14* notes that *"each person is tempted when they are dragged away by their own desire"*, attributing the engine of temptation entirely to internal desire (*epithumia*).
+* **Islamic & Buddhist Parallels:** Corresponds to the internal battle with the *Nafs* (unrefined self) in Islam, and the concept of *Tanha* (craving) in Buddhism, where external sensory triggers are empty until the mind clings to them.
+
+### 3. Practical Implications
+* **Agency:** Viewing temptation reflexively restores personal agency—if the mind constructs the loop, it also holds the capacity to dismantle it.
+* **Self-Diagnosis:** Temptation shifts from being an unpredictable external attack to a diagnostic cue, highlighting unfulfilled needs, underlying fears, or unexamined desires within the self.
