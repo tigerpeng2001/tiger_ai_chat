@@ -1,0 +1,105 @@
+# Etymological, Psychological, and Interreligious Breakdown of Temptation and Enticement
+
+This document compiles the linguistic roots, directional psychology, and interreligious perspectives on **temptation** (*peirasmos*) and **enticement** (誘惑), anchored around [1 Corinthians 10:13](https://www.bible.com/bible/1713/1CO.10.CSB).
+
+---
+
+## 1. Etymology of *Temptation* & *Peirasmos*
+
+### English: *Temptation*
+* **Middle English (13th c.):** Via Anglo-Norman and Old French *temptacion* / *tentacion* ("trial, test, temptation").
+* **Latin:** *temptatio* / *tentatio* ("a trying, testing, handling, or proof"), from *temptare* / *tentare* ("to touch, feel, try, test, or sound out"). Frequentative of *tendere* ("to stretch out").
+* **Proto-Indo-European (PIE) Root:** **`*ten-`** ("to stretch").
+* **Core Concept:** Stretching out a hand to touch, feel, or test the weight and quality of something.
+
+### Biblical Greek: *Peirasmos* (πειρασμός)
+In [1 Corinthians 10:13](https://www.bible.com/bible/1713/1CO.10.CSB), the Greek term is **πειρασμός** (*peirasmos*).
+* **Verb:** **πειράζω** (*peirazō*) – "to try, test, make trial of, or entice."
+* **Noun Root:** **πεῖρα** (*peira*) – "trial, attempt, or experience."
+* **PIE Root:** **`*per-`** ("to attempt, risk, or lead across") — origin of English *peril*, *experience*, and *expert*.
+* **Dual Meaning:**
+  1. *Testing / Trial (Positive/Neutral):* Proving faith/character under pressure.
+  2. *Enticement to Evil (Negative):* Soliciting into wrongdoing.
+
+---
+
+## 2. Multilingual Translations of 1 Cor 10:13
+
+### Spanish: *Tentación*
+* **Root:** Directly from Vulgar Latin *tentatiō*, from Classical Latin *temptātiō*.
+* **Verb:** *tentar* ("to touch, feel, test, examine").
+* **PIE Root:** **`*ten-`** ("to stretch").
+* **Nuance:** Retains Latin sense of *prueba* ("trial/test") in theological contexts, though modern usage leans toward "incitement to sin."
+
+### Chinese: 試 / 試煉 / 試探 (*shì / shìliàn / shìtàn*)
+* **Base Character 試 (*shì*):** Phono-semantic compound (形聲): **言** (speech) + **式** (pattern/standard). Meaning: "To test against a standard."
+* **試煉 (*shìliàn*) – Trial/Refinement:** **煉** (*liàn*) = **火** (fire) + **東** (refining process). Originally "to refine/smelt metals with fire." Refers to positive testing that refines character.
+* **試探 (*shìtàn*) – Temptation:** **探** (*tàn*) = **扌** (hand) + **㠯/深** (reach deep). Originally "to reach into a deep place to explore." Refers to probing for weakness/enticement.
+
+### Japanese: 試練 (*shiren*) / 誘惑 (*yūwaku*)
+* **試練 (*しれん / shiren*) – Trial / Hardship:**
+  * **試 (*shi*):** "To test / examine."
+  * **練 (*ren*):** **糸** (silk thread) + **柬** (select/pick). Originally "to boil/bleach raw silk to remove impurities" $\rightarrow$ "to refine, polish, or train." Used in [新共同訳](https://www.bible.com/bible/1578/1CO.10.%E6%96%87%E7%90%86%E5%92%8C%E5%90%88%E8%AD%AF%E6%9C%AC?parallel=1819) for 1 Cor 10:13 to emphasize a constructive, refining test.
+* **誘惑 (*ゆうわく / yūwaku*) – Temptation / Enticement:**
+  * **誘 (*yū*):** **言** (words) + **秀** (pull/draw forth) $\rightarrow$ "to entice or lead astray with words."
+  * **惑 (*waku*):** **或** (uncertain/divided) + **心** (heart) $\rightarrow$ "to perplex, confuse, or delude the heart."
+
+---
+
+## 3. Psychological Directionality: Outside-In vs. Inside-Out
+
+Temptation operates as an interplay between external triggers and internal reactions:
+
+1. **Outside $\rightarrow$ Inside (*Being Tempted*):** 
+   * An external stimulus acts upon you (*"The display case full of pastries tempted me"*).
+   * Aligns with Latin *temptare* ("to touch or sound out"). An external force tests your boundaries.
+2. **Inside $\rightarrow$ Outside (*Tempting Others / Fate*):**
+   * Directing an enticement outward to another person (*"He tempted her to cheat"*) or pushing boundaries (*"Tempting fate"* / Greek *ekpeirazō*).
+3. **The Meeting Point:**
+   * An external object/situation becomes a "temptation" only when it encounters internal desire, curiosity, or vulnerability.
+
+---
+
+## 4. Deep Dive: 誘惑 (*Yūwaku / Yòuhuò*) & *Entice*
+
+### Word Alignment
+**«誘惑»** maps closely to English **entice / enticement**:
+* **Entice:** From Old French *enticier* ("to set on fire, incite, stir up"). Focuses on the **external bait, charm, or allure** drawing someone away from a path.
+* **Tempt vs. Entice:**
+  * *Tempt* emphasizes internal moral pull/struggle.
+  * *Entice* emphasizes external bait/technique.
+
+---
+
+## 5. Comparative Interreligious Perspectives
+
+### 1. Christianity: Spiritual Warfare & Internal Desires
+* **Source:** The World (culture/environment), the Flesh (corrupted internal desire), and the Devil/Satan (spiritual adversary).
+* **Mechanism:** Desire is baited by external forces; yielding leads to sin (*James 1:14–15*).
+* **Handling:** Reliance on God's grace, prayer (*"Lead us not into temptation"*), scripture, and looking for God's escape route (*ekbasis*, 1 Cor 10:13).
+
+### 2. Judaism: The Dual Inclinations (*Yetzer*)
+* **Source:** Tension between two innate drives: *Yetzer Ha-Ra* (raw physical drive/ambition) and *Yetzer Ha-Tov* (moral reason/conscience).
+* **Mechanism:** Enticement occurs when *Yetzer Ha-Ra* demands gratification outside divine boundaries.
+* **Handling:** Studying Torah and performing *Mitzvot* (commandments). The goal is channeling physical drives toward holy ends rather than eliminating them.
+
+### 3. Islam: *Fitnah*, *Nafs*, and *Shaytan*
+* **Source:** *Shaytan* (Satan) providing *Waswas* (subtle whispers), coupled with *Nafs al-Ammarah* (the lower/unrefined ego).
+* **Mechanism:** Satan entices without force; unrefined ego craves worldly gratification.
+* **Handling:** *Dhikr* (remembrance of God), *Ta'awwudh* (seeking refuge in Allah), regular *Salah* (prayer), and *Sawm* (fasting to discipline physical desire).
+
+### 4. Buddhism: The Three Poisons & Mindful Awareness
+* **Source:** The Three Poisons: Greed/Attachment (*Raga*), Aversion (*Dvesha*), and Ignorance (*Moha*).
+* **Mechanism:** Sense contact produces pleasant feelings; ignorance leads to craving (*tanha*) and clinging.
+* **Handling:** *Sati* (mindfulness) to observe craving as impermanent (*Anicca*), along with the Noble Eightfold Path to dismantle attachment at its root.
+
+---
+
+## Comparative Summary
+
+| Tradition | Source of Temptation | Ultimate Goal | Primary Method of Defense |
+| :--- | :--- | :--- | :--- |
+| **Christianity** | World, Flesh, & Devil | Holiness & Salvation | Grace, Prayer, Scripture, & Reliance on God |
+| **Judaism** | Unchecked *Yetzer Ha-Ra* | Sanctification of Life | Torah Study & Performing *Mitzvot* |
+| **Islam** | *Shaytan's* Whispers & Unrefined Ego | Submission to God (*Tawhid*) | *Dhikr*, Daily Prayer, & Fasting |
+| **Buddhism** | Ignorance & Craving (*Tanha*) | Liberation (*Nirvana*) | Mindfulness, Meditation, & Insight |
