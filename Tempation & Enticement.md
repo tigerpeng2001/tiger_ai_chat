@@ -1,6 +1,6 @@
 # Etymological, Psychological, and Interreligious Breakdown of Temptation and Enticement
 
-This document compiles the linguistic roots, directional psychology, and interreligious perspectives on **temptation** (*peirasmos*) and **enticement** (誘惑), anchored around [1 Corinthians 10:13](https://www.bible.com/bible/1713/1CO.10.CSB).
+This document compiles the linguistic roots, directional psychology, and interreligious perspectives on **temptation** (*peirasmos*) and **enticement** (誘惑), anchored around [1 Corinthians 10:13](https://github.com/tigerpeng2001/tiger_ai_chat/blob/main/Tempation%20%26%20Enticement.md).
 
 ---
 
@@ -13,7 +13,7 @@ This document compiles the linguistic roots, directional psychology, and interre
 * **Core Concept:** Stretching out a hand to touch, feel, or test the weight and quality of something.
 
 ### Biblical Greek: *Peirasmos* (πειρασμός)
-In [1 Corinthians 10:13](https://www.bible.com/bible/1713/1CO.10.CSB), the Greek term is **πειρασμός** (*peirasmos*).
+In [1 Corinthians 10:13](https://github.com/tigerpeng2001/tiger_ai_chat/blob/main/Tempation%20%26%20Enticement.md), the Greek term is **πειρασμός** (*peirasmos*).
 * **Verb:** **πειράζω** (*peirazō*) – "to try, test, make trial of, or entice."
 * **Noun Root:** **πεῖρα** (*peira*) – "trial, attempt, or experience."
 * **PIE Root:** **`*per-`** ("to attempt, risk, or lead across") — origin of English *peril*, *experience*, and *expert*.
@@ -39,7 +39,7 @@ In [1 Corinthians 10:13](https://www.bible.com/bible/1713/1CO.10.CSB), the Greek
 ### Japanese: 試練 (*shiren*) / 誘惑 (*yūwaku*)
 * **試練 (*しれん / shiren*) – Trial / Hardship:**
   * **試 (*shi*):** "To test / examine."
-  * **練 (*ren*):** **糸** (silk thread) + **柬** (select/pick). Originally "to boil/bleach raw silk to remove impurities" $\rightarrow$ "to refine, polish, or train." Used in [新共同訳](https://www.bible.com/bible/1578/1CO.10.%E6%96%87%E7%90%86%E5%92%8C%E5%90%88%E8%AD%AF%E6%9C%AC?parallel=1819) for 1 Cor 10:13 to emphasize a constructive, refining test.
+  * **練 (*ren*):** **糸** (silk thread) + **柬** (select/pick). Originally "to boil/bleach raw silk to remove impurities" $\rightarrow$ "to refine, polish, or train." Used in Japanese translations for 1 Cor 10:13 to emphasize a constructive, refining test.
 * **誘惑 (*ゆうわく / yūwaku*) – Temptation / Enticement:**
   * **誘 (*yū*):** **言** (words) + **秀** (pull/draw forth) $\rightarrow$ "to entice or lead astray with words."
   * **惑 (*waku*):** **或** (uncertain/divided) + **心** (heart) $\rightarrow$ "to perplex, confuse, or delude the heart."
@@ -122,3 +122,33 @@ $$\text{Subject (My Desires)} \longrightarrow \text{Action (Tempting)} \longrigh
 ### 3. Practical Implications
 * **Agency:** Viewing temptation reflexively restores personal agency—if the mind constructs the loop, it also holds the capacity to dismantle it.
 * **Self-Diagnosis:** Temptation shifts from being an unpredictable external attack to a diagnostic cue, highlighting unfulfilled needs, underlying fears, or unexamined desires within the self.
+
+---
+
+## 7. Comparative Analysis: Deceive vs. Entice
+
+While both terms describe mechanisms that lead someone off-path, they target different parts of the human experience in biblical literature:
+
+### 1. Conceptual & Linguistic Breakdown
+* **Deceive (欺騙 / 迷惑 / 欺哄):**
+  * **Target:** The **intellect / mind** (perception of truth).
+  * **Biblical Greek:** **ἀπατάω** (*apataō* - to deceive, beguile) or **πλανάω** (*planaō* - to lead astray, cause to wander).
+  * **Mechanism:** Distortion of reality, lies, and false representation. It tricks the subject into believing a falsehood so they make a misguided choice.
+* **Entice (引誘 / 勾引 / 誘惑):**
+  * **Target:** The **appetite / desire** (emotions and physical drives).
+  * **Biblical Greek:** **δελεάζω** (*deleazō* - literally "to lure with bait," from *delear* / bait) or **πειράζω** (*peirazō*).
+  * **Mechanism:** Allure, gratification, and pleasure. It promises satisfaction to pull someone toward a hidden hook.
+
+### 2. The Interplay in Biblical Narrative
+In biblical narrative, **deception** is often the *strategy*, while **enticement** is the *bait*:
+* **Genesis 3 Example:** The serpent **deceives** Eve by lying about the outcome ("You will not die" $\rightarrow$ distortion of truth), which then allows the fruit to **entice** her appetite ("pleasing to the eye and desirable for gaining wisdom").
+* **The Metaphor of the Hook:** In *James 1:14*, the Greek term for enticed (*deleazō*) uses angling terminology. The bait **deceives** the fish regarding the presence of the hook, while **enticing** its hunger to bite.
+
+### 3. Summary Comparison
+
+| Dimension | Deceive (欺騙 / 迷惑) | Entice (引誘 / 誘惑) |
+| :--- | :--- | :--- |
+| **Primary Target** | Mind / Intellect (Beliefs) | Heart / Desires (Appetites) |
+| **Biblical Root** | *Apataō* / *Planaō* (Distortion) | *Deleazō* (Baiting/Luring) |
+| **Core Tactic** | Falsehood & Illusion | Charm & Pleasure |
+| **Subject's Experience** | "I was tricked by a lie." | "I was drawn by a craving." |
