@@ -106,21 +106,52 @@ Temptation operates as an interplay between external triggers and internal react
 
 ---
 
-## 6. The Reflexive Perspective: Temptation as Self-Directed Action
+## 6. Spanish Grammar & Reflexive Mechanics: Tentar vs. Tentarse
 
-Understanding temptation through the lens of a **Spanish reflexive verb** (*se*) re-frames it as a process where subject and object are identical:
+The directional psychology of temptation (**Outside-In** vs. **Inside-Out**) is directly encoded in Spanish grammar through transitive and reflexive verb pairs:
+
+### 1. Tentar vs. Tentarse (Grammar Spotlight)
+
+* **Tentar (Transitive / Outside-In):**
+  * **Meaning:** To tempt, entice, or test someone else.
+  * **Direction:** **Outside $\rightarrow$ Inside** (The external force or subject acts upon a target).
+  * **Usage:** Focuses on the cause or source of temptation.
+  * **Example:** *«El enemigo **tienta** a la gente con promesas falsas.»* ("The enemy tempts people with false promises.")
+
+* **Tentarse (Reflexive / Pronominal / Inside-Out):**
+  * **Meaning:** To feel tempted, become enticed, or yield to temptation.
+  * **Direction:** **Inside / Self** (The subject experiences or processes the internal pull).
+  * **Usage:** Focuses on the person experiencing the internal desire or struggle.
+  * **Example:** *«Ella **se tentó** con el pastel y lo compró.»* ("She felt tempted by the cake and bought it.")
+  * *Note on Regional Nuance:* In casual Latin American Spanish, *tentarse* can also colloquially mean "to burst into uncontrollable laughter" (*tentarse de la risa*).
+
+* **Secondary Pair: Provocar vs. Provocarse:**
+  A closely related pair used specifically for physical cravings, appetite, or sensual enticement:
+  * **Provocar (Transitive):** To incite, provoke, or make someone crave something (*«Ese olor **provoca** hambre»* / "That smell provokes hunger").
+  * **Provocarse (Reflexive/Pronominal):** To crave or feel enticed by something (*«¿Se te **provoca** un café?»* / "Do you feel tempted by a coffee?").
+
+---
+
+### 2. The Reflexive Mechanism (Engañarse / Caerse)
+
+Understanding temptation through the lens of a Spanish reflexive verb (*se*) reframes it as a process where subject and object interact internally:
 
 $$\text{Subject (My Desires)} \longrightarrow \text{Action (Tempting)} \longrightarrow \text{Object (Myself)}$$
 
-### 1. The Reflexive Mechanism (*Engañarse / Caerse*)
-* **The Circuit:** Rather than an external vector ($A \rightarrow B$), temptation operates as a self-contained loop ($A \leftrightarrow A$). External objects are neutral; they become temptations only when internal drives project value and urgency onto them. In this sense, one *tempts oneself* through external proxies.
+* **The Circuit:** Rather than an external vector ($A \rightarrow B$), temptation operates as a self-contained loop ($A \leftrightarrow A$). External objects are neutral; they become temptations only when internal drives project value and urgency onto them. In this sense, one tempts oneself through external proxies.
 
-### 2. Theological & Psychological Alignment
-* **Scriptural Support:** *James 1:14* notes that *"each person is tempted when they are dragged away by their own desire"*, attributing the engine of temptation entirely to internal desire (*epithumia*).
+---
+
+### 3. Theological & Psychological Alignment
+
+* **Scriptural Support:** James 1:14 notes that *"each person is tempted when they are dragged away by their own desire"*, attributing the engine of temptation entirely to internal desire (*epithumia*).
 * **Islamic & Buddhist Parallels:** Corresponds to the internal battle with the *Nafs* (unrefined self) in Islam, and the concept of *Tanha* (craving) in Buddhism, where external sensory triggers are empty until the mind clings to them.
 
-### 3. Practical Implications
-* **Agency:** Viewing temptation reflexively restores personal agency—if the mind constructs the loop, it also holds the capacity to dismantle it.
+---
+
+### 4. Practical Implications
+
+* **Agency:** Viewing temptation reflexively restores personal agency-if the mind constructs the loop, it also holds the capacity to dismantle it.
 * **Self-Diagnosis:** Temptation shifts from being an unpredictable external attack to a diagnostic cue, highlighting unfulfilled needs, underlying fears, or unexamined desires within the self.
 
 ---
