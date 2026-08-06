@@ -117,3 +117,19 @@ Isaiah 60:3 (*“Nations will come to your light, and kings to the brightness of
 
 * **From Holy Territory to Universal Peace:**
   * Across centuries of religious and national conflict, fighting has centered on controlling physical borders, sacred sites, or geopolitical spheres of influence. Isaiah’s prophecy redefines ultimate security: it moves the focus away from territorial dominance and points toward a future where international order is grounded in shared moral truth, mutual respect, and lasting restoration.
+  
+## 8. Non-Religious Conflicts: The China-Taiwan Strait Tension
+
+Applying the framework of **Isaiah 60:3** (*“Nations will come to your light, and kings to the brightness of your dawn”*) to cross-strait relations highlights how secular political struggles reflect similar dynamics of power, legitimacy, and moral authority:
+
+* **Secular Ideology as "Light" and Legitimacy:**
+  * **Competing Visions:** Beijing frames its ambition through national revival, historical destiny, and the "one China" principle, while Taipei emphasizes democratic values, self-determination, and human rights as its core identity.
+  * **The Claim to Truth:** Both sides project their political system as a beacon of progress. Isaiah 60:3 suggests that political systems or leaders attract genuine alignment not through military posturing or economic coercion, but through moral integrity, justice, and the promotion of human flourishing.
+
+* **Voluntary Attraction vs. Coerced Integration:**
+  * **The Paradox of Force:** In the Taiwan Strait, efforts to compel unity through military exercises, airspace incursions, or economic pressure contrast sharply with the concept of nations being drawn voluntarily toward a peaceful center.
+  * **Soft Power over Hard Power:** Real stability relies on attraction rather than subjugation. When power relies solely on hard-power dominance, it creates a fragile order maintained only by threat, whereas true peace requires consent and mutual recognition.
+
+* **Geopolitical Responsibility of "Kings" (World Leaders):**
+  * **De-escalation and Stewardship:** Leaders in Beijing, Taipei, Washington, and regional partner capitals hold immense power over global security, technology supply chains, and millions of lives.
+  * **Accountability Beyond Nationalism:** The reflection points to an ethical standard where statesmanship is measured not by territorial expansion or ideological victory, but by the preservation of human life, regional stability, and peaceful diplomacy.
