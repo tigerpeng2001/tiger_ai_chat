@@ -16,13 +16,13 @@
 
 ---
 
-- **לֵבָב (*Levav* / *Lev*) — *Inner Mind, Will, and Intellect***
+- &lrm;**לֵבָב (*Levav* / *Lev*) — *Inner Mind, Will, and Intellect***
 
   - **Hebrew Meaning:** The internal command center. In Ancient Hebrew, the *lev* was not primarily about romantic emotion, but the seat of decision-making, reasoning, memory, and intention.
   - **Translations:** Rendered as **heart**, **corazón**, **心** (*kokoro* / *xīn*) across all four languages. While modern Western and East Asian readers often associate "heart" primarily with feelings, the Hebrew original emphasizes dedicating your conscious choices and intellectual will.
-- **נֶפֶשׁ (*Nephesh*) — *Living Breath, Throat, and Physical Life-Force***
+- &rlm;**נֶפֶשׁ (*Nephesh*) — *Living Breath, Throat, and Physical Life-Force***
 
-  - **Hebrew Meaning:** Derived from roots associated with breathing or the throat/neck. It signifies the biological life-force that animates a person—the difference between a breathing body and a corpse.
+  - &lrm;**Hebrew Meaning:** Derived from roots associated with breathing or the throat/neck. It signifies the biological life-force that animates a person—the difference between a breathing body and a corpse.
   - **Translations:**
     - English (**soul**) and Spanish (**alma**) trace back to Latin/Greek frameworks that lean toward an immaterial spirit separated from the body.
     - Chinese (**性**) draws on classical ideas of human nature, essential life, and inner disposition.
