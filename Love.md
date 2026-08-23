@@ -69,7 +69,7 @@ Hebrew conceptualizes love through strong relational bonds, holistic inner align
 * <span dir="ltr">**Levav / Lev (לֵבָב / לֵב):** The inner mind, will, and intellect—considered the seat of thought, choice, and deep devotion rather than purely emotion.</span>
 ---
 
-## Sanskrit: The 10 Stages of Kama (Dasakamavastha)
+## 🪕 Sanskrit: The 10 Stages of Kama (Dasakamavastha)
 
 In classical Sanskrit aesthetics (*Rasa* theory) and erotic literature (*Kama Shastra*), romantic love in separation (*Vipralambha Sringara*) progresses through **10 distinct psychological and physical stages (*Avasthas*)**:
 
@@ -86,7 +86,7 @@ In classical Sanskrit aesthetics (*Rasa* theory) and erotic literature (*Kama Sh
 
 ---
 
-## Tamil: The 5 Landscapes of Love (Aintinai)
+## 🌿 Tamil: The 5 Landscapes of Love (Aintinai)
 
 In classical Sangam Tamil poetry (*Akam*), love is not classified merely by linear intensity, but through **5 interior landscapes (*Aintinai*)**, mapping emotional phases to specific geography, time of day, and seasonal mood:
 
