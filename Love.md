@@ -29,7 +29,7 @@ Unlike languages that rely on distinct root words or rigid progressive scales, E
 English heavily uses physical and spatial metaphors to capture how love impacts the mind and body:
 
 * **"Falling in Love":** Framed as an uncontrollable, sudden force—surrendering one's footing to an overwhelming emotion.
-* **"Head Over Heels":** A 14th-century spatial metaphor (originally "heels over head") describing complete, disorientation and total loss of emotional equilibrium.
+* **"Head Over Heels":** A 14th-century spatial metaphor (originally "heels over head") describing complete disorientation and total loss of emotional equilibrium.
 * **"Smitten":** Derived from the Old English word for being struck or beaten (*smitan*); love experienced as a sudden, overwhelming blow.
 * **"Heartbroken":** A physicalized metaphor treating emotional grief and loss of love as a literal rupture of the vital organ.
 
@@ -69,10 +69,7 @@ Hebrew conceptualizes love through strong relational bonds, holistic inner align
 * <span dir="ltr">**Levav / Lev (לֵבָב / לֵב):** The inner mind, will, and intellect—considered the seat of thought, choice, and deep devotion rather than purely emotion.</span>
 ---
 
-## 🌏 Asian & Middle Eastern Perspectives
-These languages offer a spectrum based on **intensity and fate**.
-
-### Sanskrit: The 10 Stages of Kama (Dasakamavastha)
+## Sanskrit: The 10 Stages of Kama (Dasakamavastha)
 
 In classical Sanskrit aesthetics (*Rasa* theory) and erotic literature (*Kama Shastra*), romantic love in separation (*Vipralambha Sringara*) progresses through **10 distinct psychological and physical stages (*Avasthas*)**:
 
@@ -89,7 +86,7 @@ In classical Sanskrit aesthetics (*Rasa* theory) and erotic literature (*Kama Sh
 
 ---
 
-### Tamil: The 5 Landscapes of Love (Aintinai)
+## Tamil: The 5 Landscapes of Love (Aintinai)
 
 In classical Sangam Tamil poetry (*Akam*), love is not classified merely by linear intensity, but through **5 interior landscapes (*Aintinai*)**, mapping emotional phases to specific geography, time of day, and seasonal mood:
 
@@ -131,7 +128,7 @@ In classical Arabic literature and lexicography (notably detailed by scholars li
 
 ## Chinese: Emotional Progression, Relational Ties, and Cosmic Destiny
 
-Unlike Arabic's linear 11-stage trajectory or Sanskrit's focus on separation-sickness, Chinese conceptualizes love through three distinct dimensions: **Progressive Affection (*Qíng*  tình / 情)**, **Relational & Familial Ties (*Yì* / 义)**, and **Cosmic Destiny (*Yuán* / 缘)**.
+Unlike Arabic's linear 11-stage trajectory or Sanskrit's focus on separation-sickness, Chinese conceptualizes love through three distinct dimensions: **Progressive Affection (*Qíng* / 情)**, **Relational & Familial Ties (*Yì* / 义)**, and **Cosmic Destiny (*Yuán* / 缘)**.
 
 ### 1. The Spectrum of Progressive Affection (情 - Qíng)
 Classical and modern Chinese chart the romantic journey by how deeply feelings (*情*) penetrate the heart:
@@ -143,7 +140,7 @@ Classical and modern Chinese chart the romantic journey by how deeply feelings (
 * **爱 (Ài):** Deep, committed love; holding affection in one's heart (*愛* classically contains the "heart" radical 心).
 * **痴情 (Chīqíng):** Obsessive, unreasoning devotion; blind passion where one becomes "foolish" or mesmerized by love.
 * **深情 (Shēnqíng):** Profound, enduring affection that runs deep beneath the surface and withstands time.
-* **生死之恋 (Shēngsǐ zhī liàn):** Love unto death; an eternal, life-and-death devotion made famous in classical literature like *The Peony Pavilion* (*"情不知所起，一往而深，生者可以死，死 يمكن而生"*).
+* **生死之恋 (Shēngsǐ zhī liàn):** Love unto death; an eternal, life-and-death devotion made famous in classical literature like *The Peony Pavilion* (*"情不知所起，一往而深，生者可以死，死可以生"*).
 
 ---
 
@@ -210,7 +207,7 @@ Unlike English, which uses "love" broadly across all contexts, Spanish maintains
 ### 2. Emotional and Reflexive Mechanics
 Spanish frequently links emotional states directly to body parts or reflexive verbs, framing affection as a physical sensation:
 
-* **Cariño / Mimado:** *Cariño* serves as both "affection" and a universal endearment ("honey/dear"), while *mimar* refers to physical spoiling, snuggling, or pampering a loved one.
+* **Cariño / Mimar:** *Cariño* serves as both "affection" and a universal endearment ("honey/dear"), while *mimar* refers to physical spoiling, snuggling, or pampering a loved one.
 * **Anhelo / Deseo:** Deep longing and earnest desire, reflecting the intense yearning of distance or unrequited passion.
 * **Echar de menos / Extrañar:** Ways to express missing someone. *Echar de menos* literally implies feeling the structural "absence or lack" of the beloved in daily life.
 
