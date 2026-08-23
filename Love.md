@@ -110,7 +110,7 @@ In classical Sangam Tamil poetry (*Akam*), love is not classified merely by line
    * **Emotion:** Hardship, hazardous journey, and long-distance separation (*Pirival*).
    * **Context:** The pain of separation when a partner travels through dangerous desert terrain for wealth or duty.
 
-### Arabic: The 11 Stages of Love
+## 🏜️ Arabic: The 11 Stages of Love
 
 In classical Arabic literature and lexicography (notably detailed by scholars like Ibn al-Qayyim in *Rawdat al-Muhibbin*), love is viewed as a progressive journey through 11 distinct stages of increasing intensity:
 
@@ -126,7 +126,7 @@ In classical Arabic literature and lexicography (notably detailed by scholars li
 10. **Al-Wajd (الوجد):** Total obsession; continuous grief, preoccupation, and constant emotional presence of the beloved.
 11. **Al-Huyum (الهيام):** Absolute insanity; the final stage of total wanderlust, delirium, and complete loss of self in love.
 
-## Chinese: Emotional Progression, Relational Ties, and Cosmic Destiny
+## 🐉 Chinese: Emotional Progression, Relational Ties, and Cosmic Destiny
 
 Unlike Arabic's linear 11-stage trajectory or Sanskrit's focus on separation-sickness, Chinese conceptualizes love through three distinct dimensions: **Progressive Affection (*Qíng* / 情)**, **Relational & Familial Ties (*Yì* / 义)**, and **Cosmic Destiny (*Yuán* / 缘)**.
 
@@ -162,7 +162,7 @@ Love in Chinese thought is rarely seen as purely individual choice; it is bound 
 
 ---
 
-## Japanese: Linguistic Distinctions, Nuance, and Emotional Expressions
+## 🌸 Japanese: Linguistic Distinctions, Nuance, and Emotional Expressions
 
 Japanese expresses love through precise distinctions between casual affection, romantic attachment, and deep, unconditional devotion, often relying on subtlety and non-verbal care.
 
