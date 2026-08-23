@@ -28,6 +28,15 @@ Ancient Greek distinguishes love by its **nature and origin**, providing a psych
 
 ---
 
+## 📜 Hebrew: Covenantal and Holistic Affection
+Hebrew conceptualizes love through strong relational bonds, holistic inner alignment, and active devotion.
+
+* <span dir="ltr">**Ahavah (אַהֲבָה):** The primary term for love, encompassing affection, affection between friends, emotional attachment, and covenantal devotion between God and humanity.</span>
+* <span dir="ltr">**Chesed (חֶסֶד):** Steadfast love, loving-kindness, covenantal loyalty, and mercy.</span>
+* <span dir="ltr">**Rachamim (רַחֲמִים):** Deep compassion or tender mercy, etymologically linked to *rechem* (womb).</span>
+* <span dir="ltr">**Levav / Lev (לֵבָב / לֵב):** The inner mind, will, and intellect—considered the seat of thought, choice, and deep devotion rather than purely emotion.</span>
+---
+
 ## 🌏 Asian & Middle Eastern Perspectives
 These languages offer a spectrum based on **intensity and fate**.
 
