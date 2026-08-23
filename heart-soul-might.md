@@ -20,14 +20,14 @@
 
   - **Hebrew Meaning:** The internal command center. In Ancient Hebrew, the *lev* was not primarily about romantic emotion, but the seat of decision-making, reasoning, memory, and intention.
   - **Translations:** Rendered as **heart**, **corazón**, **心** (*kokoro* / *xīn*) across all four languages. While modern Western and East Asian readers often associate "heart" primarily with feelings, the Hebrew original emphasizes dedicating your conscious choices and intellectual will.
-- &rlm;**נֶפֶשׁ (*Nephesh*) — *Living Breath, Throat, and Physical Life-Force***
+- &lrm;**נֶפֶשׁ (*Nephesh*) — *Living Breath, Throat, and Physical Life-Force***
 
-  - &lrm;**Hebrew Meaning:** Derived from roots associated with breathing or the throat/neck. It signifies the biological life-force that animates a person—the difference between a breathing body and a corpse.
+  - **Hebrew Meaning:** Derived from roots associated with breathing or the throat/neck. It signifies the biological life-force that animates a person—the difference between a breathing body and a corpse.
   - **Translations:**
     - English (**soul**) and Spanish (**alma**) trace back to Latin/Greek frameworks that lean toward an immaterial spirit separated from the body.
     - Chinese (**性**) draws on classical ideas of human nature, essential life, and inner disposition.
     - Japanese highlights two different nuances: the *Shinkyōdōyaku* uses **魂** (*tamashii*, spiritual soul/psyche), whereas the *Shinkaiyaku* chooses **いのち** (*inochi*, physical life/vital breath), which directly targets the original Hebrew sense of total living existence.
-- **מְאֹד (*Me'od*) — *Abundance, "Muchness," and Capacity***
+- &lrm;**מְאֹד (*Me'od*) — *Abundance, "Muchness," and Capacity***
 
   - **Hebrew Meaning:** Grammatically an adverb meaning "exceedingly," "very," or "greatly." In this context, it functions as a noun meaning your total abundance, maximum capacity, or everything beyond your physical body (wealth, status, physical vigor, energy).
   - **Translations:** Because translating "with all your *very-ness*" into a noun is difficult, every major target language translates *me'od* as operational power or exertion: **might/strength** (English), **fuerzas** (Spanish), **力** (Japanese *chikara*), and **力** (Chinese *lì*).
