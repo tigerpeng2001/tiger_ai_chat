@@ -46,11 +46,21 @@ These languages offer a spectrum based on **intensity and fate**.
 * **Anpu (Tamil):** General kindness or benevolence.
 * **Kaadhal (Tamil):** Specifically romantic or passionate love.
 
-### Arabic: The 11 Stages
-Arabic views love as a progressive journey, including:
-* **Al-Hawa:** The initial "breath" or attraction.
-* **Ishq:** Intense passion that overlooks faults.
-* **Huyum:** The final stage of complete emotional "insanity."
+### Arabic: The 11 Stages of Love
+
+In classical Arabic literature and lexicography (notably detailed by scholars like Ibn al-Qayyim in *Rawdat al-Muhibbin*), love is viewed as a progressive journey through 11 distinct stages of increasing intensity:
+
+1. **Al-Hawa (الهوى):** The initial spark or inclination; literally a "breeze" or "falling" of affection toward someone.
+2. **Al-Alaqah (العلاقة):** Attachment; the stage where love becomes attached to the heart, named after the bond forming between two souls.
+3. **Al-Kalaf (الكلف):** Infatuation; love that brings a sweet pain or distress as it occupies the mind deeply.
+4. **Al-Eshq (العشق):** Blind passion; deep, consuming desire where affection overflows and blinds one to the beloved's flaws.
+5. **Al-Shaghaf (الشغاف):** Inner heart-touching love; derived from *shaghaf* (the outer lining or pericardium of the heart), meaning love has penetrated the heart's membrane.
+6. **Al-Shawq (الشوق):** Yearning; intense emotional longing and deep desire to be near the beloved.
+7. **Al-Poyouth / Al-Lawaa (اللوَاع):** Burning longing; love that feels like an inner flame or aching passion.
+8. **Al-Sababah (الصبابة):** Poured-out devotion; love so intense that the lover's heart feels poured out completely toward the other.
+9. **Al-Gharam (الغرام):** Unescapable torment/permanence; love that clings persistently to the soul, from which one cannot break free.
+10. **Al-Wajd (الوجد):** Total obsession; continuous grief, preoccupation, and constant emotional presence of the beloved.
+11. **Al-Huyum (الهيام):** Absolute insanity; the final stage of total wanderlust, delirium, and complete loss of self in love.
 
 ### Chinese: Depth and Fate
 * **Ai (爱) vs. Lian (恋):** *Ai* is deep/serious; *Lian* is the pull of longing and attachment.
