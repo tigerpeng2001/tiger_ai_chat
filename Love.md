@@ -40,11 +40,46 @@ Hebrew conceptualizes love through strong relational bonds, holistic inner align
 ## 🌏 Asian & Middle Eastern Perspectives
 These languages offer a spectrum based on **intensity and fate**.
 
-### Sanskrit & Tamil
-* **Sneha (Sanskrit):** A "sticky" or nurturing affection.
-* **Prema (Sanskrit):** Profound, selfless spiritual devotion.
-* **Anpu (Tamil):** General kindness or benevolence.
-* **Kaadhal (Tamil):** Specifically romantic or passionate love.
+### Sanskrit: The 10 Stages of Kama (Dasakamavastha)
+
+In classical Sanskrit aesthetics (*Rasa* theory) and erotic literature (*Kama Shastra*), romantic love in separation (*Vipralambha Sringara*) progresses through **10 distinct psychological and physical stages (*Avasthas*)**:
+
+1. **Chakshu-priti (चक्षुःप्रीति):** Delight of the eyes; the initial attraction triggered by seeing or hearing about the beloved.
+2. **Manas-sanga (मनःसङ्ग):** Mental attachment; constant fixation where the mind continuously dwells on the beloved.
+3. **Sankalpa (सङ्कल्प):** Active desire; imagining union, formulating hopes, and fantasizing about possibilities together.
+4. **Jagara (जागर):** Insomnia; sleeplessness caused by persistent longing and emotional restlessness.
+5. **Tanuta (तनुता):** Physical emaciation; fading health, loss of appetite, and bodily weakness from grief.
+6. **Arati (अरति):** Indifference; detachment from worldly pleasures, hobbies, duties, and social interactions.
+7. **Lajja-pranasha (लज्जाप्रनाश):** Loss of bashfulness; losing social inhibitions or fear of public judgment in pursuit of love.
+8. **Unmada (उन्माद):** Delusion or madness; emotional distraction, irrational behavior, and talking to inanimate objects.
+9. **Moorchha (मूर्च्छा):** Fainting or stupor; temporary loss of consciousness or deep numbness from emotional overload.
+10. **Marana (मरण):** Symbolic death; complete despair or spiritual breakdown when separation feels total and unbearable.
+
+---
+
+### Tamil: The 5 Landscapes of Love (Aintinai)
+
+In classical Sangam Tamil poetry (*Akam*), love is not classified merely by linear intensity, but through **5 interior landscapes (*Aintinai*)**, mapping emotional phases to specific geography, time of day, and seasonal mood:
+
+1. **Kurinji (குறிஞ்சி — Mountainous Region):** 
+   * **Emotion:** Union and initial romantic encounter (*Punartal*).
+   * **Context:** Secret lovers meeting in the lush, mist-covered mountains at midnight.
+
+2. **Mullai (முல்லை — Forest Pastures):** 
+   * **Emotion:** Patient waiting and quiet devotion (*Iruttal*).
+   * **Context:** The beloved enduring separation during the evening/rainy season while awaiting the partner's return.
+
+3. **Marutam (மருதம் — Agricultural Plains):** 
+   * **Emotion:** Lover's quarrel, jealousy, and sulking (*Oodal*).
+   * **Context:** Disputes arising from domestic life or infidelity, set in fertile farmlands at morning light.
+
+4. **Neytal (நெய்தல் — Seashore/Coastal Zone):** 
+   * **Emotion:** Anxious grieving and desolation (*Irangal*).
+   * **Context:** Deep sorrow and longing over prolonged absence, set during sunset by the ocean waves.
+
+5. **Palai (பாலை — Arid Wasteland):** 
+   * **Emotion:** Hardship, hazardous journey, and long-distance separation (*Pirival*).
+   * **Context:** The pain of separation when a partner travels through dangerous desert terrain for wealth or duty.
 
 ### Arabic: The 11 Stages of Love
 
