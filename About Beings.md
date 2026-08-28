@@ -1,4 +1,4 @@
-# Chat on August 15, 2026
+# About Beings
 
 ## Tiger: Are my sentences grammar correct?
 
