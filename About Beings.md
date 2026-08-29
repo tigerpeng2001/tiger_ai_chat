@@ -288,6 +288,43 @@ Because target languages often distinguish existence, location/relationship, and
 * **English (ESV):** Relies on a single verb (*was*) paired with prepositions (*with*) or word order to convey relational and existential context.
 
 ---
+## Tiger: Let me check the particles used before あった in 新共同訳.
+
+## Gemini: In the **新共同訳** (Shin Kyōdō Yaku) translation of John 1:1, the verb **あった** (*atta*) appears three times, each preceded by a distinct particle combination that structurally mirrors the shifts in Greek:
+
+> **初めに言が**あった**。言は神と**共にあった**。言は神で**あった**。**  
+> (*Hajime ni kotoba **ga** atta. Kotoba wa kami **to tomo ni** atta. Kotoba wa kami **de** atta.*)
+
+---
+
+### Particle Breakdown
+
+1. **1st Clause: が (*ga*) — Subject Marker**
+   * **Text:** 初めに言**が**あった (*Hajime ni kotoba **ga** atta*)
+   * **Grammatical Role:** Nominative Subject Marker
+   * **Function:** Identifies the Word (**言**) as the subject of simple existence (**あった**). Marks absolute, uncreated being: *"In the beginning, the Word existed."*
+
+2. **2nd Clause: と共に (*to tomo ni*) — Relational Postposition**
+   * **Text:** 言は神**と共に**あった (*Kotoba wa kami **to tomo ni** atta*)
+   * **Grammatical Role:** Comitative / Relational Postposition (**と** + **共に**)
+   * **Function:** Indicates reciprocal presence and personal relationship, translating the Greek preposition *pros* ("face-to-face with"): *"The Word was together with God."*
+
+3. **3rd Clause: で (*de*) — Copular Predicate Marker**
+   * **Text:** 言は神**であった** (*Kotoba wa kami **de** atta*)
+   * **Grammatical Role:** Connective form of the copula **である** (*de aru*)
+   * **Function:** Transforms the verb from simple existence into a copula of essential identity, forming the predicate nominative: *"The Word was God."*
+
+---
+
+### Comparative Summary Table
+
+| Clause Occurrence | Japanese Text | Target Particle | Grammatical Role | Theological Function |
+| :--- | :--- | :--- | :--- | :--- |
+| **1st "was"** (Eternity) | 言**が**あった | **が** (*ga*) | Nominative subject | **Existence** (*There was*) |
+| **2nd "was"** (Relationship) | 神**と共に**あった | **と共に** (*to tomo ni*) | Comitative / Relational | **Relationship** (*Was with*) |
+| **3rd "was"** (Nature / Identity) | 神**で**あった | **で** (*de*) | Copular predicate | **Identity / Nature** (*Was [essence]*) |
+
+---
 
 ## Tiger: Chinese and Spanish use different words for the 'be', while English and Japanese use the same word. Does this difference reflect how different cultures view the world differently?
 
