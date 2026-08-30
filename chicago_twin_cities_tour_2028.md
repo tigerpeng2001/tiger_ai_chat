@@ -1,141 +1,111 @@
-# 🚴 Chicago-to-Twin-Cities "Craft Beer Chase" Tour Plan
-### 🗓️ Proposed Date: Late September / Early October 2028
-### 🧭 Route Direction: St. Paul, MN to Chicago (Glenview, IL)
-### 🗺️ Total Distance: ~570 Miles | 11 Days
+# 2028 Chicago to Twin Cities "Craft Beer Chase" Tour Master Plan
+
+This master plan details an 12-day self-powered traditional bicycle tour from Excelsior, Minnesota back to the Glenview Amtrak Station in Illinois. The trip is explicitly optimized for early October 2028 to maximize the spectacular autumn foliage progression and target premium local India Pale Ales (IPAs) at the conclusion of each day's ride.
 
 ---
 
-## 🌟 Executive Summary
-This document serves as the master planning framework for an 11-day, self-powered bicycle tour tailored for an athletic, high-endurance couple. Utilizing your strong cardiovascular profiles (running up to 25 miles and consistent stationary cycling), this trip focuses on mechanical efficiency, maximum comfort, changing autumn scenery, and exploring the premier craft beer and IPA culture of the Upper Midwest.
+## Rider Sizing & Bike Profiles
 
-### 🎯 Strategic Design Benefits
-*   **The Tailwind Advantage:** Biking southeast from Minnesota to Illinois aligns with the prevailing autumn weather fronts, giving you a persistent tailwind.
-*   **Net-Downhill Gradient:** The historic rail-trails of Wisconsin flow gently downhill when ridden from west to east.
-*   **Fresh Legs for Bluffs:** The physically demanding Mississippi River bluffs are tackled during Days 1–3 when your energy and excitement are at their highest.
-*   **Autumn Foliage Chasing:** Starting north in late September allows you to track the natural progression of peak fall colors as they move south into Illinois.
+### Her Setup (Height: 5'2" / 157 cm)
+* **Recommended Frame Size:** Small (S) or 15–17 inch frame.
+* **Frame Style:** Stagger or Step-Through frame to allow easy mount/dismount when carrying fully loaded rear pannier bags.
+* **Key Components:** Shorter crank arms (to optimize pedal stroke geometry), hydraulic disc brakes, wide 35mm–42mm tires, and ergonomic wing-style palm grips.
 
----
+### Your Setup (Height: 172 cm / 5'7.5")
+* **Recommended Frame Size:** Medium (M) or 17.5–19 inch frame.
+* **Frame Style:** Traditional Diamond Frame (standard high top-tube) for enhanced frame stiffness under heavy pedaling load.
+* **Key Components:** Lightweight carbon or aluminum build, hydraulic disc brakes, matching 35mm–42mm tires, and ergonomic wing-style palm grips.
 
-## 🚲 Equipment & Sizing Profile (Non-Electric)
-
-To maximize your running endurance, traditional hybrid or flat-bar gravel bikes are selected over heavy cruiser or electric models. 
-
-### 👩 Rider 1 (5'2" / 157 cm) — Sizing: Small (S) / 15-17" Frame
-*   **Recommended Frame Style:** Step-Through or Stagger frame. Essential for stability when mounting/dismounting a bicycle fully loaded with rear cargo bags.
-*   **Key Models:**
-    *   **Trek FX 3 Disc Stagger (Size S):** Optimized for heights 4'11" - 5'4". Features a lightweight carbon fork and efficient 1x10 drivetrain.
-    *   **Priority Continuum Onyx (17" Small):** Features a rust-free Gates Carbon Belt Drive and clean, internal Enviolo CVT hub—no chains to drop or grease to manage.
-
-### 👨 Rider 2 (172 cm / 5'8") — Sizing: Medium (M) / 17.5-19" Frame
-*   **Recommended Frame Style:** Traditional Diamond (high top-tube) frame. Offers maximum frame stiffness and power transfer for hill climbing.
-*   **Key Models:**
-    *   **Trek FX 3 Disc (Size M):** Built for heights 5'5" - 5'9". Offers an athletic posture that utilizes your core and glute strength.
-    *   **Priority Continuum Onyx (19" Medium):** Pairs perfectly with a 29.5" - 32" inseam.
-
-### 🛠️ Shared Bike Specifications Required
-*   **Brakes:** Hydraulic disc brakes (mandatory for low-effort, reliable stopping power on wet autumn leaves and steep bluff descents).
-*   **Tires:** 32mm to 45mm width with light tread (vital for stable rolling on unpaved, crushed limestone trails).
-*   **Grips:** Ergonomic wing-shaped palm grips (e.g., Ergon GP1) to eliminate wrist fatigue and finger numbness.
-*   **Luggage System:** Integrated rear metal cargo racks. No backpacks; your frames must carry the weight via waterproof rear pannier bags (e.g., Ortlieb Back-Rollers).
+### Shared Bike Requirements (Non-Electric)
+* Strictly traditional (manual) operation utilizing high-efficiency drivetrains to match your runner conditioning.
+* Fully integrated rear cargo racks capable of carrying heavy waterproof panniers (e.g., Ortlieb Back-Rollers) to eliminate the need for heavy backpacks.
 
 ---
 
-## 🚂 Outbound Logistics: The Amtrak Framework
+## Part 1: Pre-Tour Train Logistics (Chicago to St. Paul)
 
-*   **Departure Station:** Glenview Amtrak Station (GLN) — Avoids city traffic and cuts ~25 miles off the final day of riding.
-*   **The Train:** **Amtrak Empire Builder (Train 7 - Westbound)**. *Note: Do not book the Borealis train, as it lacks bike baggage cars.*
-*   **Departure Time:** ~3:37 PM Daily.
-*   **Arrival Station:** St. Paul Union Depot (MSP).
-*   **Bike Slot Rules:** 
-    *   Must add a **Trainside Checked Bicycle slot ($20)** to your ticket at the time of purchase. Slots are strictly capped.
-    *   **No boxing required.** Roll your fully assembled bike right onto the platform and hand it directly to the conductor at the baggage car.
-    *   **Tire Limit:** Maximum width of 2 inches.
-    *   **Gear Stripping:** All panniers and frame bags must be removed before loading. These go with you as carry-on luggage to your passenger seats.
+Before biking home, you will ride the rails northwest to position yourselves for the journey.
 
----
+* **Station Location:** Glenview Amtrak Station (GLN), Illinois. This is an unstaffed station.
+* **The Train:** Amtrak Empire Builder (Train 7, Westbound), departing daily around 3:37 PM.
+* **Bicycle Add-On:** A "Trainside Checked Bicycle" slot ($20) must be pre-booked along with your passenger tickets. Space is capped at a few slots per train.
+* **Platform Loading Rules:** 
+  1. Arrive at the Glenview platform 45 minutes before departure.
+  2. Because the station is unstaffed, you do not need to print an advance handlebar tag at a window. Present your mobile ticket directly to the conductor at the baggage car door.
+  3. **Strip your gear:** You must completely remove all panniers, frame bags, and electronics from your bikes before loading. These items become your standard carry-on baggage for the passenger compartment.
+  4. Hand your fully assembled, unboxed bike directly up to the conductor in the baggage car. Tires must be 2 inches wide or narrower.
 
-## 🍻 The 11-Day "Craft Beer Chase" Itinerary
-
-Daily distances range from 35 to 55 miles, leaving ample afternoon time to relax, check into local hotels/B&Bs, and sample elite regional IPAs.
-
-### ⛰️ Leg 1: The Mississippi River Bluffs
-
-#### 📍 Day 1: St. Paul, MN to Red Wing, MN
-*   **Distance:** ~50 miles
-*   **Terrain:** Hardpacked regional paths exiting the Twin Cities, transitioning to rolling country roads.
-*   **🎯 Hop Target:** **Red Wing Brewery** 
-    *   *The Beer:* Pre-prohibition style ales and stone-fired pizzas for high-carb recovery.
-
-#### 📍 Day 2: Red Wing, MN to Winona, MN
-*   **Distance:** ~53 miles
-*   **Terrain:** Scenic Great River Road (MN Side) flanked by towering crimson and gold bluffs.
-*   **🎯 Hop Target:** **Two Fathoms Brewing Company**
-    *   *The Beer:* **The Owl Farm Experiment** — A highly progressive, rotating experimental IPA featuring Strata, Mosaic, and Galaxy hops.
-
-#### 📍 Day 3: Winona, MN to La Crosse, WI
-*   **Distance:** ~35 miles
-*   **Terrain:** A short, gentle recovery day crossing the Mississippi River into the flat Wisconsin river basin.
-*   **🎯 Hop Target:** **608 Brewing Company** & **Pearl Street Brewery**
-    *   *The Beer:* **Citranado** (608 Brewing) — A legendary, award-winning 7.2% juicy hazy IPA exploding with tropical fruit profiles.
-
-### 🌲 Leg 2: The Rails-to-Trails Heartland
-
-#### 📍 Day 4: La Crosse, WI to Sparta, WI
-*   **Distance:** ~30 miles
-*   **Terrain:** Perfectly flat, car-free riding along the paved La Crosse River State Trail.
-*   **🎯 Hop Target:** **Alchemy Brewing Company** or **Cork & Barrel**
-    *   *The Beer:* Small-batch, hand-crafted house IPAs in Sparta, the "Bicycling Capital of America."
-
-#### 📍 Day 5: Sparta, WI to Hillsboro, WI
-*   **Distance:** ~38 miles
-*   **Terrain:** The crown jewel leg. Ride the unpaved, crushed limestone **Elroy-Sparta State Trail**, passing through 3 historic, hand-dug railway tunnels. Connect south onto the Hillsboro Trail.
-*   **🎯 Hop Target:** **Hillsboro Brewing Co.**
-    *   *The Beer:* **Smooth 85** — Voted the **#1 Best IPA at the Wisconsin IPA Fest**. Also look for their seasonal **X-Thiols Hazy IPA**.
-
-#### 📍 Day 6: Hillsboro, WI to Reedsburg, WI
-*   **Distance:** ~35 miles
-*   **Terrain:** The unpaved **400 State Trail**, crossing dozens of wooden bridges tracing the Baraboo River valley canopy.
-*   **🎯 Hop Target:** **Gravity Box Brewing Company** (Mauston side-trip)
-    *   *The Beer:* Fresh, localized micro-brews on a scenic outdoor patio.
-
-#### 📍 Day 7: Reedsburg, WI to Madison, WI
-*   **Distance:** ~55 miles
-*   **Terrain:** Longest mileage day, rolling into Wisconsin's bike-centric capital via dedicated commuter trail infrastructure.
-*   **🎯 Hop Target:** **Working Draft Beer Company** & **Young Blood Beer Company**
-    *   *The Beer:* **Pulp Culture Hazy IPA** or **Nameless Mist Hazy IPA** (Working Draft) — Intense dry-hopping with Strata and Simcoe creating blueberry and pineapple notes.
-
-### 🏡 Leg 3: Navigating Home to Chicagoland
-
-#### 📍 Day 8: Madison, WI to Janesville, WI
-*   **Distance:** ~42 miles
-*   **Terrain:** Smooth, paved riding down the Capital City and Badger State Trails.
-*   **🎯 Hop Target:** **Gray Brewing Company**
-    *   *The Beer:* Traditional, family-brewed American IPAs from one of Wisconsin's oldest beverage families.
-
-#### 📍 Day 9: Janesville, WI to Lake Geneva, WI
-*   **Distance:** ~38 miles
-*   **Terrain:** Quiet, well-paved rolling country backroads cutting through Southern Wisconsin farmland.
-*   **🎯 Hop Target:** **Duesterbeck’s Brewing Company** or **Tarrant Brewing Company**
-    *   *The Beer:* Fresh IPAs served on a gorgeous, 150-year-old historic farmstead patio.
-
-#### 📍 Day 10: Lake Geneva, WI to McHenry, IL
-*   **Distance:** ~35 miles
-*   **Terrain:** Crossing the state line! Transitioning to the pristine unpaved gravel of the Hebron Trail into the Fox River network.
-*   **🎯 Hop Target:** **McHenry Brewing Company**
-    *   *The Beer:* Crisp, traditional coastal-style IPAs and German ambers near the waterfront.
-
-#### 📍 Day 11: McHenry, IL to Glenview Amtrak Station, IL
-*   **Distance:** ~45 miles
-*   **Terrain:** Seamless, car-free riding down the paved Fox River Trail, cutting east via the shaded Des Plaines River Trail back to Glenview.
-*   **🎯 The Victory Toast:** **Ten Ninety Brewing Co.** or **Macushla Brewing**
-    *   *The Beer:* Elite local Chicagoland IPAs located steps away from your final destination.
+*Note: From the St. Paul Union Depot, you will utilize a local ride, transit link, or regional paths to transfer over to your official starting point on the shores of Lake Minnetonka in Excelsior, MN.*
 
 ---
 
-## 🍂 Autumn Safety & Tactical Advice
+## Part 2: The Revised 12-Day "Craft Beer Chase" Itinerary (October 2028)
 
-1.  **Embrace the "Harvest Wet-Hop":** Because this trip is set for early October, look for seasonal **"Wet Hop" or "Fresh Hop" IPAs** on tap. These are brewed once a year using whole hop cones fresh from the local harvest, offering an Earthy flavor unique to autumn.
-2.  **Wisconsin Trail Passes:** State trails require a physical daily pass (~$5/day). Keep cash on hand for the self-service drop-boxes located at the trailheads.
-3.  **The October Temperature Split:** Expect 60°F–65°F peak daytime riding weather, but morning departures will routinely drop to **38°F–45°F**. Pack lightweight windproof jackets, full-finger gloves, and thermal leg layers.
-4.  **High-Visibility Apparel:** Shaded rail-trail tree canopies create heavy dappled light in October. Keep front and rear bike lights flashing in day-safety mode and wear bright clothing.
-5.  **Tunnel Closure Awareness:** The hand-dug tunnels on the Elroy-Sparta Trail close for winter in early November. This early-October schedule guarantees they remain fully open.
+By splitting the opening stretch into two shorter days, the maximum daily mileage drops from 68 down to a balanced 42 miles, ensuring your wife can comfortably ride at a casual, enjoyable pace.
+
+### Leg 1: The Twin Cities Lakes & Upper Mississippi (Days 1–5)
+
+#### Day 1: Excelsior to Downtown Minneapolis (~26 miles)
+* **The Ride:** Launch along the shores of Lake Minnetonka. Ride the completely car-free Minnesota River Bluffs LRT Regional Trail east, connecting seamlessly to the Cedar Lake Trail into downtown Minneapolis.
+* **IPA Target:** **Inbound BrewCo** or **Surly Brewing Co.** (Minneapolis). Grab a pint of Surly's *Furious IPA* or a fresh, citrusy profile at Inbound to celebrate a beautiful, relaxed opening day.
+
+#### Day 2: Minneapolis to Red Wing, MN (~42 miles)
+* **The Ride:** Depart Minneapolis via the Mississippi River Gorge regional trails, merging into scenic country lanes and paved bike paths heading southeast toward the historic river town of Red Wing.
+* **IPA Target:** **Red Wing Brewery**. Sit back with their locally famous artisan pizzas and small-batch house ales.
+
+#### Day 3: Red Wing to Winona, MN (~53 miles)
+* **The Ride:** Travel south down the Minnesota side of the Great River Road. The route offers breathtaking, massive views of the early-October crimson and gold bluffs framing the river.
+* **IPA Target:** **Two Fathoms Brewing Company** (Winona). Look for *The Owl Farm Experiment*, an incredibly bright, rotating experimental IPA featuring heavy notes of stone fruit.
+
+#### Day 4: Winona, MN to La Crosse, WI (~35 miles)
+* **The Ride:** A relaxed recovery leg. You will cross the main bridge over the Mississippi River into Wisconsin and cruise down the flat, scenic river valley paths.
+* **IPA Target:** **608 Brewing Company** (La Crosse). Order the *Citranado Hazy IPA*, an acclaimed 7.2% ABV tropical juice bomb, or check out their rotating double hazies.
+
+---
+
+### Leg 2: The Rails-to-Trails Heartland (Days 5–8)
+
+#### Day 5: La Crosse to Sparta, WI (~30 miles)
+* **The Ride:** Connect straight to the paved La Crosse River State Trail, spinning effortlessly eastward away from the river valley on a completely car-free railroad bed.
+* **IPA Target:** **Alchemy Brewing Company** or **Cork & Barrel** (Sparta). Enjoy a craft tap flight in the self-proclaimed "Bicycling Capital of America."
+
+#### Day 6: Sparta to Hillsboro, WI (~38 miles)
+* **The Ride:** The iconic highlight of the route. You will ride the historic unpaved, packed crushed limestone **Elroy-Sparta State Trail**, traversing three massive, hand-dug, 140-year-old railway tunnels (bring a flashlight!). At Elroy, transition south onto the Hillsboro State Trail.
+* **IPA Target:** **Hillsboro Brewing Co.** Located in a beautifully renovated turn-of-the-century building. Order the *Smooth 85*, which was voted the #1 Best IPA at the Wisconsin IPA Festival.
+
+#### Day 7: Hillsboro to Reedsburg, WI (~35 miles)
+* **The Ride:** Glide along the pristine "400 State Trail," which winds smoothly alongside the Baraboo River valley, crossing dozens of wooden bridges beneath a dense canopy of brilliant peak-autumn foliage.
+* **IPA Target:** **Gravity Box Brewing Company** (Mauston side-trip) or local craft establishments in historic downtown Reedsburg.
+
+#### Day 8: Reedsburg to Madison, WI (~55 miles)
+* **The Ride:** Your longest distance leg, but your runner endurance will find this flat, highly scenic path entering Wisconsin's capital a breeze. You roll directly into the city on dedicated commuter paths.
+* **IPA Target:** **Working Draft Beer Company** (Madison). Track down their *Pulp Culture Hazy IPA* or *Nameless Mist*, dry-hoped intensely with Strata and Simcoe hops.
+
+---
+
+### Leg 3: Rolling Home to Chicagoland (Days 9–12)
+
+#### Day 9: Madison to Janesville, WI (~42 miles)
+* **The Ride:** Cruise due south out of Madison utilizing the beautifully manicured and paved Capital City and Badger State Trails.
+* **IPA Target:** **Gray Brewing Company** (Janesville). Unwind at one of the oldest family-owned beverage houses in the state.
+
+#### Day 10: Madison/Janesville to Lake Geneva, WI (~38 miles)
+* **The Ride:** Leave the rail-trails for a day to navigate quiet, beautifully paved, low-traffic country backroads cutting through rolling Wisconsin farmland and lake country.
+* **IPA Target:** **Tarrant Brewing Company** or **Duesterbeck's Brewing Company**. Duesterbeck's features a gorgeous 150-year-old historic farm converted into a microbrewery with excellent outdoor patio seating.
+
+#### Day 11: Lake Geneva, WI to McHenry, IL (~35 miles)
+* **The Ride:** Cross the state line into Illinois! You quickly join the unpaved, pristine gravel paths of the Hebron Trail before descending into the Fox River trail network.
+* **IPA Target:** **McHenry Brewing Company**. Pull up a seat right near the water for exceptional, crisp IPAs and traditional German-style ambers.
+
+#### Day 12: McHenry to Glenview Amtrak Station, IL (~45 miles)
+* **The Ride:** Ride the entirely car-free, paved Fox River Trail south, then pivot east along the Des Plaines River Trail network to roll right up to your final destination at the Glenview Station.
+* **The Victory Toast:** **Macushla Brewing** or **Ten Ninety Brewing Co.** (Glenview). Complete your 570-mile self-powered loop with an elite local pint and a celebratory meal right by your home station.
+
+---
+
+## Part 3: Tour Rules & Autumn Success Strategies
+
+1. **Watch for "Wet Hop" Season:** Because you are riding in early October, look for "Wet Hop" or "Fresh Hop" IPAs on tap room boards. These seasonal beers are brewed using whole hop cones harvested straight from local Wisconsin hop yards just hours before brewing.
+2. **Layer for Chilly Mornings:** Expect morning departure temperatures in Minnesota and Wisconsin to hover between 38°F and 45°F, warming up to a comfortable 60°F–65°F by mid-afternoon. Pack a windproof jacket, full-finger gloves, and fleece layers.
+3. **Daytime Safety Lighting:** The dense, colorful autumn tree canopies create shifting dappled light on country roads. Keep your front and rear high-lumen bike lights flashing in day-safety mode at all times.
+4. **Wisconsin Trail Passes:** Crushed limestone state trails in Wisconsin require a physical daily pass (~$5/day). Keep cash on hand to use the self-service drop boxes at the major trailheads.
