@@ -248,4 +248,4 @@ Spanish literature and daily speech rely on vivid metaphors to describe romantic
 
 ## Cross-References
 
-* [Deuteronomy 7:9 &amp; Matthew 5:46 Reflection](Deuteronomy_7_9_Reflection.md)
+* [Deuteronomy 7:9 &amp; Matthew 5:46 Reflection](Reflection: Deuteronomy 7:9 & Matthew 5:46 — Covenant Loyalty and Spiritual Perception.md)
