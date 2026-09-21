@@ -5,6 +5,7 @@ A comprehensive overview of how "love" is defined, categorized, and expressed ac
 ---
 
 ## 📖 English Etymology
+
 The English word "love" has remained remarkably stable in its core meaning while shifting its cultural application.
 
 * **Proto-Indo-European (PIE):** Rooted in **[*leubh-](https://www.etymonline.com/word/*leubh-)**, meaning "to care, desire, or love."
@@ -17,6 +18,7 @@ The English word "love" has remained remarkably stable in its core meaning while
 Unlike languages that rely on distinct root words or rigid progressive scales, English relies on **qualifiers, idiomatic metaphors, and psychological frameworks** to express the varying depth, intensity, and nature of love:
 
 #### 1. The Spectrum of Intensity and Intimacy
+
 * **Infatuation / Crush:** An intense, short-lived passion or admiration, often based on idealization or physical appearance rather than deep knowledge of the person.
 * **Affection / Fondness:** Warm, gentle liking and goodwill, common in early friendship, family relations, or tender acquaintance.
 * **Devotion:** Dedicated, steadfast loyalty and selfless care; love expressed as an enduring commitment to another's well-being.
@@ -26,6 +28,7 @@ Unlike languages that rely on distinct root words or rigid progressive scales, E
 ---
 
 #### 2. Metaphorical and Idiomatic Expressions
+
 English heavily uses physical and spatial metaphors to capture how love impacts the mind and body:
 
 * **"Falling in Love":** Framed as an uncontrollable, sudden force—surrendering one's footing to an overwhelming emotion.
@@ -36,37 +39,41 @@ English heavily uses physical and spatial metaphors to capture how love impacts 
 ---
 
 #### 3. Modern Psychological Layers (Sternberg's Triangular Theory)
+
 In modern English literature and psychology, love is often structured into three interacting components:
 
-| Component | Focus | Primary Expression |
-| :--- | :--- | :--- |
-| **Intimacy** | Emotional Closeness | Warmth, mutual sharing, trust, and vulnerability. |
-| **Passion** | Physical Drive | Romantic attraction, sexual thrill, and physiological arousal. |
-| **Commitment** | Cognitive Choice | The conscious decision to maintain love through time and trials. |
+| Component            | Focus               | Primary Expression                                               |
+| :------------------- | :------------------ | :--------------------------------------------------------------- |
+| **Intimacy**   | Emotional Closeness | Warmth, mutual sharing, trust, and vulnerability.                |
+| **Passion**    | Physical Drive      | Romantic attraction, sexual thrill, and physiological arousal.   |
+| **Commitment** | Cognitive Choice    | The conscious decision to maintain love through time and trials. |
 
 ---
 
 ## 🏛️ Greek: The Analytical Framework
+
 Ancient Greek distinguishes love by its **nature and origin**, providing a psychological map of affection.
 
-| Type | Greek Term | Definition |
-| :--- | :--- | :--- |
-| **Agape** | ἀγάπη | Unconditional, selfless, or divine love. |
-| **Eros** | ἔρως | Romantic, passionate, and physical desire. |
-| **Philia** | φιλία | Deep friendship, loyalty, and brotherly love. |
-| **Storge** | στοργή | Instinctive familial affection (e.g., parent/child). |
-| **Pragma** | πράγμα | Enduring, mature love built on compromise. |
+| Type                | Greek Term       | Definition                                                  |
+| :------------------ | :--------------- | :---------------------------------------------------------- |
+| **Agape**     | ἀγάπη       | Unconditional, selfless, or divine love.                    |
+| **Eros**      | ἔρως         | Romantic, passionate, and physical desire.                  |
+| **Philia**    | φιλία       | Deep friendship, loyalty, and brotherly love.               |
+| **Storge**    | στοργή     | Instinctive familial affection (e.g., parent/child).        |
+| **Pragma**    | πράγμα     | Enduring, mature love built on compromise.                  |
 | **Philautia** | φιλαυτία | Self-love (distinguished between healthy and narcissistic). |
 
 ---
 
 ## 📜 Hebrew: Covenantal and Holistic Affection
+
 Hebrew conceptualizes love through strong relational bonds, holistic inner alignment, and active devotion.
 
-* <span dir="ltr">**Ahavah (אַהֲבָה):** The primary term for love, encompassing affection, affection between friends, emotional attachment, and covenantal devotion between God and humanity.</span>
-* <span dir="ltr">**Chesed (חֶסֶד):** Steadfast love, loving-kindness, covenantal loyalty, and mercy.</span>
-* <span dir="ltr">**Rachamim (רַחֲמִים):** Deep compassion or tender mercy, etymologically linked to *rechem* (womb).</span>
-* <span dir="ltr">**Levav / Lev (לֵבָב / לֵב):** The inner mind, will, and intellect—considered the seat of thought, choice, and deep devotion rather than purely emotion.</span>
+* <span dir="ltr"> The primary term for love, encompassing affection, affection between friends, emotional attachment, and covenantal devotion between God and humanity.</span>
+* <span dir="ltr"> Steadfast love, loving-kindness, covenantal loyalty, and mercy.</span>
+* <span dir="ltr"> Deep compassion or tender mercy, etymologically linked to  (womb).</span>
+* <span dir="ltr"> The inner mind, will, and intellect—considered the seat of thought, choice, and deep devotion rather than purely emotion.</span>
+
 ---
 
 ## 🪕 Sanskrit: The 10 Stages of Kama (Dasakamavastha)
@@ -90,23 +97,24 @@ In classical Sanskrit aesthetics (*Rasa* theory) and erotic literature (*Kama Sh
 
 In classical Sangam Tamil poetry (*Akam*), love is not classified merely by linear intensity, but through **5 interior landscapes (*Aintinai*)**, mapping emotional phases to specific geography, time of day, and seasonal mood:
 
-1. **Kurinji (குறிஞ்சி — Mountainous Region):** 
+1. **Kurinji (குறிஞ்சி — Mountainous Region):**
+
    * **Emotion:** Union and initial romantic encounter (*Punartal*).
    * **Context:** Secret lovers meeting in the lush, mist-covered mountains at midnight.
+2. **Mullai (முல்லை — Forest Pastures):**
 
-2. **Mullai (முல்லை — Forest Pastures):** 
    * **Emotion:** Patient waiting and quiet devotion (*Iruttal*).
    * **Context:** The beloved enduring separation during the evening/rainy season while awaiting the partner's return.
+3. **Marutam (மருதம் — Agricultural Plains):**
 
-3. **Marutam (மருதம் — Agricultural Plains):** 
    * **Emotion:** Lover's quarrel, jealousy, and sulking (*Oodal*).
    * **Context:** Disputes arising from domestic life or infidelity, set in fertile farmlands at morning light.
+4. **Neytal (நெய்தல் — Seashore/Coastal Zone):**
 
-4. **Neytal (நெய்தல் — Seashore/Coastal Zone):** 
    * **Emotion:** Anxious grieving and desolation (*Irangal*).
    * **Context:** Deep sorrow and longing over prolonged absence, set during sunset by the ocean waves.
+5. **Palai (பாலை — Arid Wasteland):**
 
-5. **Palai (பாலை — Arid Wasteland):** 
    * **Emotion:** Hardship, hazardous journey, and long-distance separation (*Pirival*).
    * **Context:** The pain of separation when a partner travels through dangerous desert terrain for wealth or duty.
 
@@ -131,6 +139,7 @@ In classical Arabic literature and lexicography (notably detailed by scholars li
 Unlike Arabic's linear 11-stage trajectory or Sanskrit's focus on separation-sickness, Chinese conceptualizes love through three distinct dimensions: **Progressive Affection (*Qíng* / 情)**, **Relational & Familial Ties (*Yì* / 义)**, and **Cosmic Destiny (*Yuán* / 缘)**.
 
 ### 1. The Spectrum of Progressive Affection (情 - Qíng)
+
 Classical and modern Chinese chart the romantic journey by how deeply feelings (*情*) penetrate the heart:
 
 * **好感 (Hǎogǎn):** Favorable impression or mutual liking; the initial spark of physical or emotional attraction.
@@ -145,6 +154,7 @@ Classical and modern Chinese chart the romantic journey by how deeply feelings (
 ---
 
 ### 2. Relational Ties and Expressions of Care
+
 Chinese culture frequently expresses love through action, duty, and deep empathy rather than direct verbal declaration:
 
 * **心疼 (Xīnténg):** Expressing love as "heart-ache" for the other's suffering, labor, or well-being; prioritizing their comfort over your own.
@@ -154,6 +164,7 @@ Chinese culture frequently expresses love through action, duty, and deep empathy
 ---
 
 ### 3. Fate, Predestination, and Timing
+
 Love in Chinese thought is rarely seen as purely individual choice; it is bound up with cosmic timing and relational destiny:
 
 * **缘分 (Yuánfèn):** The invisible threads of fate or cosmic karma that bring two specific people together across time and space.
@@ -167,6 +178,7 @@ Love in Chinese thought is rarely seen as purely individual choice; it is bound 
 Japanese expresses love through precise distinctions between casual affection, romantic attachment, and deep, unconditional devotion, often relying on subtlety and non-verbal care.
 
 ### 1. Core Vocabulary (The Spectrum of Love)
+
 * **Suki (好き / すき):** Liking or affection. Used broadly across daily life—from favorite foods to friends and early romantic interest.
   * **Daisuki (大好き / だいすき):** "Like very much"; a warm, genuine expression of strong affection used with close friends, family, and romantic partners.
 * **Koi (恋 / こい):** Romantic love, passion, and longing toward a specific person. It carries an aspect of self-focused desire, yearning, and the thrilling or restless feeling of falling in love (*koi ni ochiru*).
@@ -176,6 +188,7 @@ Japanese expresses love through precise distinctions between casual affection, r
 ---
 
 ### 2. Classical & Poetic Vocabulary
+
 * **Itooshii (愛おしい / いとおしい):** A feeling of deep, tender cherish toward someone small, vulnerable, or precious; feeling a tug at the heartstrings to protect them.
 * **Setsunai (切ない / せつない):** A bittersweet, painful aching in the chest caused by longing, unrequited love, or forced separation.
 * **Mono no aware (物の哀れ):** The poignant sensitivity to the impermanence of things, often woven into classical Japanese love poetry (*waka*) where romantic moments are treasured precisely because they are fleeting.
@@ -183,6 +196,7 @@ Japanese expresses love through precise distinctions between casual affection, r
 ---
 
 ### 3. Cultural and Indirect Expressions
+
 In Japanese culture, explicit verbal declarations of love (*Aishiteru*) are historically rare and reserved for peak emotional moments. Love is frequently expressed through unspoken actions or gentle phrasing:
 
 * **Ishin-denshin (以心伝心):** Heart-to-heart communication; understanding each other's feelings tacitly without needing spoken words.
@@ -195,6 +209,7 @@ In Japanese culture, explicit verbal declarations of love (*Aishiteru*) are hist
 Spanish structures love around clear levels of relational commitment, reflexive physical metaphors, and expressive idioms.
 
 ### 1. The Progression of Romantic Commitment
+
 Unlike English, which uses "love" broadly across all contexts, Spanish maintains a distinct hierarchy based on the depth and nature of the relationship:
 
 * **Querer (*Te quiero*):** Literally "I want/desire you." The foundation for expressing affection toward close friends, family members, and early romantic partners. It conveys warmth, care, and genuine fondness without demanding lifelong commitment.
@@ -205,6 +220,7 @@ Unlike English, which uses "love" broadly across all contexts, Spanish maintains
 ---
 
 ### 2. Emotional and Reflexive Mechanics
+
 Spanish frequently links emotional states directly to body parts or reflexive verbs, framing affection as a physical sensation:
 
 * **Cariño / Mimar:** *Cariño* serves as both "affection" and a universal endearment ("honey/dear"), while *mimar* refers to physical spoiling, snuggling, or pampering a loved one.
@@ -214,6 +230,7 @@ Spanish frequently links emotional states directly to body parts or reflexive ve
 ---
 
 ### 3. Idioms and Cultural Metaphors
+
 Spanish literature and daily speech rely on vivid metaphors to describe romantic harmony and destiny:
 
 * **Media naranja:** "My half an orange"; the classic Hispanic idiom for a soulmate or perfect complement in life.
@@ -223,7 +240,12 @@ Spanish literature and daily speech rely on vivid metaphors to describe romantic
 ---
 
 ## 🚀 Future Exploration
+
 * [ ] **French & Italian:** Exploring *Amour* and *Amore*.
 * [ ] **Untranslatable Terms:** *Saudade* (Portuguese), *Forelsket* (Norwegian).
 * [ ] **The Biology of Love:** The role of Oxytocin and Dopamine.
 * [ ] **Idiomatic Origins:** Why we "fall" in love.
+
+## Cross-References
+
+* [Deuteronomy 7:9 &amp; Matthew 5:46 Reflection](Deuteronomy_7_9_Reflection.md)
